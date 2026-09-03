@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-03",
+  "fetched_at": "2026-09-03T05:14:56.694103+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#WENMONTHLY",
+        "description": "",
+        "query": "%23WENMONTHLY",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=%23WENMONTHLY",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#グミの日",
+        "description": "",
+        "query": "%23%E3%82%B0%E3%83%9F%E3%81%AE%E6%97%A5",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=%23%E3%82%B0%E3%83%9F%E3%81%AE%E6%97%A5",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "#DeepaJewellersIPOClosesToday",
+        "description": "",
+        "query": "%23DeepaJewellersIPOClosesToday",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=%23DeepaJewellersIPOClosesToday",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#今だけ食べられる新ソースとポテナゲ",
+        "description": "",
+        "query": "%23%E4%BB%8A%E3%81%A0%E3%81%91%E9%A3%9F%E3%81%B9%E3%82%89%E3%82%8C%E3%82%8B%E6%96%B0%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%9D%E3%83%86%E3%83%8A%E3%82%B2",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=%23%E4%BB%8A%E3%81%A0%E3%81%91%E9%A3%9F%E3%81%B9%E3%82%89%E3%82%8C%E3%82%8B%E6%96%B0%E3%82%BD%E3%83%BC%E3%82%B9%E3%81%A8%E3%83%9D%E3%83%86%E3%83%8A%E3%82%B2",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#推し牛",
+        "description": "",
+        "query": "%23%E6%8E%A8%E3%81%97%E7%89%9B",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=%23%E6%8E%A8%E3%81%97%E7%89%9B",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "Montero",
+        "description": "",
+        "query": "Montero",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=Montero",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "芦田愛菜ちゃん",
+        "description": "",
+        "query": "%E8%8A%A6%E7%94%B0%E6%84%9B%E8%8F%9C%E3%81%A1%E3%82%83%E3%82%93",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=%E8%8A%A6%E7%94%B0%E6%84%9B%E8%8F%9C%E3%81%A1%E3%82%83%E3%82%93",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "Vitória",
+        "description": "",
+        "query": "Vit%C3%B3ria",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=Vit%C3%B3ria",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "PHUWIN LOEWE FW26 PRESS",
+        "description": "",
+        "query": "PHUWIN%20LOEWE%20FW26%20PRESS",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=PHUWIN%20LOEWE%20FW26%20PRESS",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "Vélez",
+        "description": "",
+        "query": "V%C3%A9lez",
+        "timestamp": "2026-09-03T04:48:11.432000+00:00",
+        "url": "https://twitter.com/search?q=V%C3%A9lez",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "脆皮水果asmr｜玉菇甜瓜",
+        "description": "",
+        "author": "红心橙🥕",
+        "likes": 9717,
+        "comments": 0,
+        "note_id": "6a678676000000000100ecf9",
+        "url": "https://www.xiaohongshu.com/explore/6a678676000000000100ecf9",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "9位明星拖拉机舞盘点🚜所有人拉三下！",
+        "description": "",
+        "author": "内娱终于有趣了",
+        "likes": 8338,
+        "comments": 0,
+        "note_id": "6a68eb37000000001002a9a3",
+        "url": "https://www.xiaohongshu.com/explore/6a68eb37000000001002a9a3",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "江浙沪周边📍台州！度假小院已next level",
+        "description": "",
+        "author": "哆啦梦梦",
+        "likes": 8051,
+        "comments": 0,
+        "note_id": "6a45cb770000000011018647",
+        "url": "https://www.xiaohongshu.com/explore/6a45cb770000000011018647",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "天津一家三口生活成本",
+        "description": "",
+        "author": "天津形体|东方舞|中东鼓 潘潘",
+        "likes": 7055,
+        "comments": 0,
+        "note_id": "6a5ed993000000001d00daf0",
+        "url": "https://www.xiaohongshu.com/explore/6a5ed993000000001d00daf0",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "谁能告诉我 到底从哪里找的这些小孩",
+        "description": "",
+        "author": "可樂喝水",
+        "likes": 7051,
+        "comments": 0,
+        "note_id": "6a79483d0000000033012475",
+        "url": "https://www.xiaohongshu.com/explore/6a79483d0000000033012475",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "生活中的保命冷知识 ",
+        "description": "",
+        "author": "好用工具亲测分享",
+        "likes": 6484,
+        "comments": 0,
+        "note_id": "6a4752b90000000008030053",
+        "url": "https://www.xiaohongshu.com/explore/6a4752b90000000008030053",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "刚刚！敖尹的回归请愿已达16W！",
+        "description": "",
+        "author": "刚刚（全能版）",
+        "likes": 6307,
+        "comments": 0,
+        "note_id": "6a45cd19000000002100a9ec",
+        "url": "https://www.xiaohongshu.com/explore/6a45cd19000000002100a9ec",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "事以密成 言以泄败 ",
+        "description": "",
+        "author": "小鸡啄米",
+        "likes": 5578,
+        "comments": 0,
+        "note_id": "6a3dcc1e000000002201bdef",
+        "url": "https://www.xiaohongshu.com/explore/6a3dcc1e000000002201bdef",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "张柏芝｜2013年小Lu小Q陪妈妈录节目",
+        "description": "",
+        "author": "cecilindapan",
+        "likes": 5101,
+        "comments": 0,
+        "note_id": "6a56d748000000000803e5a0",
+        "url": "https://www.xiaohongshu.com/explore/6a56d748000000000803e5a0",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "2017年死刑犯上刑场影像，",
+        "description": "",
+        "author": "沉碑话流年",
+        "likes": 3825,
+        "comments": 0,
+        "note_id": "6a4b179f000000001101f1f4",
+        "url": "https://www.xiaohongshu.com/explore/6a4b179f000000001101f1f4",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "台风沙德尔第3次登陆",
+        "description": "",
+        "sentence_id": "2632955",
+        "hot": 11612319,
+        "event_time": 1788337140,
+        "url": "https://www.douyin.com/hot/2632955",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "西藏泥石流21人遇难541人失联",
+        "description": "",
+        "sentence_id": "2625118",
+        "hot": 10908865,
+        "event_time": 1787755263,
+        "url": "https://www.douyin.com/hot/2625118",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "秋粮主产区分类施策力夺丰收",
+        "description": "",
+        "sentence_id": "2633524",
+        "hot": 10701635,
+        "event_time": 1788361071,
+        "url": "https://www.douyin.com/hot/2633524",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "中国人民抗战胜利81周年",
+        "description": "",
+        "sentence_id": "2633587",
+        "hot": 10675021,
+        "event_time": 1788396221,
+        "url": "https://www.douyin.com/hot/2633587",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "原来是我们离不开孩子",
+        "description": "",
+        "sentence_id": "2633491",
+        "hot": 10058353,
+        "event_time": 1788358021,
+        "url": "https://www.douyin.com/hot/2633491",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "快船被罚5首轮和3000万美元",
+        "description": "",
+        "sentence_id": "2633547",
+        "hot": 9261618,
+        "event_time": 1788391113,
+        "url": "https://www.douyin.com/hot/2633547",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "微信回应单删提示",
+        "description": "",
+        "sentence_id": "2633833",
+        "hot": 8143919,
+        "event_time": 1788407828,
+        "url": "https://www.douyin.com/hot/2633833",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "香港演员刘兆铭去世",
+        "description": "",
+        "sentence_id": "2633553",
+        "hot": 7840234,
+        "event_time": 1788391473,
+        "url": "https://www.douyin.com/hot/2633553",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "福建沿海仍受强降雨影响",
+        "description": "",
+        "sentence_id": "2633720",
+        "hot": 7797917,
+        "event_time": 1788403482,
+        "url": "https://www.douyin.com/hot/2633720",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "学校回应家长自报干部身份",
+        "description": "",
+        "sentence_id": "2633569",
+        "hot": 7783392,
+        "event_time": 1788394009,
+        "url": "https://www.douyin.com/hot/2633569",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "时光见证中埃情谊历久弥新",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xk9k7mjmiedbk2",
+        "cover": "http://zj66.a.kwimgs.com/upic/2026/09/03/00/BMjAyNjA5MDMwMDIwNDlfMTA3MTg4NTYwN18yMDc3MjkwNDg5OThfMF8z_B1801a5f4b22ce7a30134a74e08269afe.jpg?tag=1-1788412496-unknown-0-r4my7u9xgh-d0baa6b6d0c575a2&clientCacheKey=3xk9k7mjmiedbk2.jpg&di=da03a292&bp=10004&kwai-not-alloc=42&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xk9k7mjmiedbk2",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "抗战胜利81周年",
+        "description": "",
+        "author": "",
+        "hot": 11535000,
+        "photo_id": "3xq9gjdumr5f4xm",
+        "cover": "http://zj66.a.kwimgs.com/upic/2026/09/02/15/BMjAyNjA5MDIxNTE5MDZfOTE3NzkyMjA2XzIwNzY4NjE0ODc5OF8wXzM=_B432012e3884d827798367fb5a00a1f17.jpg?tag=1-1788412496-unknown-0-jgtnmgcz0z-d700d265c14917a9&type=hot&clientCacheKey=3xq9gjdumr5f4xm.jpg&di=da03a292&bp=10004&kwai-not-alloc=42&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xq9gjdumr5f4xm",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "台风沙德尔第3次登陆",
+        "description": "",
+        "author": "",
+        "hot": 11530000,
+        "photo_id": "3xq7u5ynwxniy2a",
+        "cover": "http://k0u3aydey2fy22zw240ex978xb30xx22z.djvod.ndcimgs.com/upic/2026/09/03/09/BMjAyNjA5MDMwOTUyMjRfMTA3MTg4NTYwN18yMDc3NDY4Mzk5ODlfMF8z_B300f7ba16e7b4a9a95ba3b3b35969d05.jpg?tag=1-1788412496-unknown-0-oe30ttnnnl-942f007a36fb85c9&provider=self&clientCacheKey=3xq7u5ynwxniy2a.jpg&di=da03a292&bp=10004&x-ks-ptid=207746839989&kwai-not-alloc=self-cdn&kcdntag=p:Jiangsu;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:kuaishouVideoProjection&ocid=1100000109&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xq7u5ynwxniy2a",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "中国绿色智慧正在点亮世界",
+        "description": "",
+        "author": "",
+        "hot": 11528000,
+        "photo_id": "3x5frmxpx3v48da",
+        "cover": "http://zj66.a.kwimgs.com/upic/2026/09/02/21/BMjAyNjA5MDIyMTAxMjRfMTg5NTcwODkyMF8yMDc3MTU3ODcwOThfMF8z_Bf54c4ed871fff4b94b03cd5f0b62a192.jpg?tag=1-1788412496-unknown-0-daisirm3di-75f8982f3fb66255&clientCacheKey=3x5frmxpx3v48da.jpg&di=da03a292&bp=10004&kwai-not-alloc=42&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x5frmxpx3v48da",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "吉隆泥石流遇难21人失联541人",
+        "description": "",
+        "author": "",
+        "hot": 11527000,
+        "photo_id": "3xe7zveqxdtzjm9",
+        "cover": "http://k0u3aydey2fy25zw240ex978xb30xx25z.djvod.ndcimgs.com/upic/2026/09/02/20/BMjAyNjA5MDIyMDI0MTFfMTA3MTg4NTYwN18yMDc3MTIzNDAwNDBfMF8z_B27b5ffc2846b3143b8dd5b341357f7ae.jpg?tag=1-1788412496-unknown-0-jpncmgcphe-dd2dffb7a5aa0240&provider=self&clientCacheKey=3xe7zveqxdtzjm9.jpg&di=da03a292&bp=10004&x-ks-ptid=207712340040&kwai-not-alloc=self-cdn&kcdntag=p:Jiangsu;i:ChinaTelecom;ft:UNKNOWN;h:HOT;pn:kuaishouVideoProjection&ocid=1100000109&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xe7zveqxdtzjm9",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "微信回应单删提示",
+        "description": "",
+        "author": "",
+        "hot": 11526000,
+        "photo_id": "3xgzpvqjkgunh89",
+        "cover": "http://k0u3aydey2fy21zw240ex978xb30xx21z.djvod.ndcimgs.com/upic/2026/09/03/12/BMjAyNjA5MDMxMjEzMjRfMTEzMjc1MDAyOF8yMDc3NTc5MjMwNTdfMF8z_B53b2fff53d7907aaf9443fce62075f18.jpg?tag=1-1788412496-unknown-0-vcuaprh8gs-cb39deaa7a5d18f2&provider=self&clientCacheKey=3xgzpvqjkgunh89.jpg&di=da03a292&bp=10004&x-ks-ptid=207757923057&kwai-not-alloc=self-cdn&kcdntag=p:Jiangsu;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:kuaishouVideoProjection&ocid=1100000109&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xgzpvqjkgunh89",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "中国女篮世界杯名单出炉",
+        "description": "",
+        "author": "",
+        "hot": 11526000,
+        "photo_id": "3xcfpkc27pdkzvm",
+        "cover": "http://zj66.a.kwimgs.com/upic/2026/08/30/06/BMjAyNjA4MzAwNjUwMzBfMzU0NDMwMDI0OF8yMDczNDg4NjIyODNfMl8z_Ba5cc4d5555b4f3f7fdaea12741a62e69.jpg?tag=1-1788412496-unknown-0-ms22wrocos-071c26fc6ac8aa26&clientCacheKey=3xcfpkc27pdkzvm.jpg&di=da03a292&bp=10004&kwai-not-alloc=42&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xcfpkc27pdkzvm",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "家长在班级群自报干部身份引争议",
+        "description": "",
+        "author": "",
+        "hot": 11525000,
+        "photo_id": "3xr33d6tainjcj6",
+        "cover": "http://zj66.a.kwimgs.com/upic/2026/09/03/08/BMjAyNjA5MDMwODM0MTBfMTQyMzg1MjA3OF8yMDc3NDI0Njg5OTFfMF8z_B2756d0e341871a7adb611a7d99d814d8.jpg?tag=1-1788412496-unknown-0-mgxzqwzkv5-4a6c48be3d97f4aa&type=hot&clientCacheKey=3xr33d6tainjcj6.jpg&di=da03a292&bp=10004&kwai-not-alloc=42&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xr33d6tainjcj6",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "关晓彤饰演患有白化病角色",
+        "description": "",
+        "author": "",
+        "hot": 11525000,
+        "photo_id": "3x4h7dwc3u6pqkg",
+        "cover": "http://k0u3aydey2fy21zw240ex978xb30xx21z.djvod.ndcimgs.com/upic/2026/08/31/19/BMjAyNjA4MzExOTQ4MjdfMjg5NTMwNTE3Ml8yMDc1MzE3MzExNzVfMF8z_Be434bbc68d15f918274e4186e21ef3a4.jpg?tag=1-1788412496-unknown-0-vynzc9kukh-3552be6ff7edfa43&provider=self&clientCacheKey=3x4h7dwc3u6pqkg.jpg&di=da03a292&bp=10004&x-ks-ptid=207531731175&kwai-not-alloc=self-cdn&kcdntag=p:Jiangsu;i:ChinaTelecom;ft:UNKNOWN;h:UNKNOWN;pn:kuaishouVideoProjection&ocid=1100000109&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x4h7dwc3u6pqkg",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "香港演员刘兆铭去世",
+        "description": "",
+        "author": "",
+        "hot": 11525000,
+        "photo_id": "3xy2quqdfardh9s",
+        "cover": "http://zj66.a.kwimgs.com/upic/2026/09/02/23/BMjAyNjA5MDIyMzU1MDJfMTMzODE5MjQwMV8yMDc3Mjc4NTExNjNfMF8z_B58463b4838552af83762690f6d26e0ca.jpg?tag=1-1788412496-unknown-0-xffzexwc7i-1b9b252699d10b4c&type=hot&clientCacheKey=3xy2quqdfardh9s.jpg&di=da03a292&bp=10004&kwai-not-alloc=42&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xy2quqdfardh9s",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}

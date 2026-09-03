@@ -1,0 +1,11 @@
+{
+  "platforms": ["x", "youtube", "xiaohongshu", "douyin", "kuaishou"],
+  "top_n": 10,
+  "output_path": "Joke",
+  "use_proxy": false,
+  "image_quality": "medium",
+  "joke_styles": ["幽默", "讽刺", "温馨", "搞笑"],
+  "language": "zh-CN",
+  "max_joke_length": 200,
+  "schedule_time": "0 0 * * *"
+}

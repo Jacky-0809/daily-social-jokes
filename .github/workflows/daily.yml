@@ -1,0 +1,74 @@
+name: Weekly Social Jokes
+
+on:
+  schedule:
+    # 每周五 UTC 04:00 运行（北京时间 12:00）
+    - cron: "0 4 * * 5"
+  workflow_dispatch:  # 允许手动触发
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Scrape & Build
+        env:
+          YOUTUBE_API_KEY: ${{ secrets.YOUTUBE_API_KEY }}
+          XHS_COOKIE: ${{ secrets.XHS_COOKIE }}
+          PROXY_URL: ${{ secrets.PROXY_URL }}
+        run: |
+          python scripts/run.py
+
+      - name: Generate PDF & Send Email (Friday report)
+        env:
+          REPORT_EMAIL_TO: ${{ secrets.REPORT_EMAIL_TO || 'j68251389@gmail.com' }}
+          GMAIL_USER: ${{ secrets.GMAIL_USER }}
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: |
+          python scripts/weekly_report.py || echo "⚠️ PDF/邮件步骤未完全成功（可能未配置邮件Secret）"
+
+      - name: Commit updated data
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add data/ site/ reports/
+          git diff --staged --quiet || git commit -m "📊 Weekly update: $(date +%Y-%m-%d)"
+          git push
+
+      - name: Setup Pages
+        uses: actions/configure-pages@v4
+
+      - name: Upload artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: "./site"
+
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4

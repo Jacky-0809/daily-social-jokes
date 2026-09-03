@@ -1,0 +1,302 @@
+/* ============================================
+   每日社交平台热门榜 - 样式表
+   响应式设计，移动端友好
+   ============================================ */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC",
+        "Hiragino Sans GB", "Microsoft YaHei", sans-serif;
+    background: #f5f6fa;
+    color: #2d3436;
+    line-height: 1.6;
+}
+
+.container {
+    max-width: 900px;
+    margin: 0 auto;
+    padding: 20px;
+}
+
+/* ===== Header ===== */
+.site-header {
+    background: linear-gradient(135deg, #667eea 0%, #764ba2 100%);
+    color: #fff;
+    padding: 40px 0;
+    text-align: center;
+    margin-bottom: 30px;
+}
+
+.site-header h1 {
+    font-size: 2rem;
+    margin-bottom: 10px;
+}
+
+.site-header .subtitle {
+    font-size: 1rem;
+    opacity: 0.9;
+}
+
+/* ===== Date badge ===== */
+.date-badge {
+    display: inline-block;
+    background: #3498db;
+    color: #fff;
+    padding: 6px 16px;
+    border-radius: 20px;
+    font-size: 0.9rem;
+    margin-bottom: 25px;
+}
+
+/* ===== Platform sections ===== */
+.platform-section {
+    margin-bottom: 35px;
+}
+
+.platform-section h2 {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    color: #2d3436;
+}
+
+.card-list {
+    display: grid;
+    gap: 12px;
+}
+
+.card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 16px 18px;
+    box-shadow: 0 2px 8px rgba(0,0,0,0.06);
+    display: flex;
+    align-items: flex-start;
+    gap: 14px;
+    transition: transform 0.2s, box-shadow 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+.card-rank {
+    font-size: 1.3rem;
+    min-width: 40px;
+    text-align: center;
+    padding-top: 2px;
+}
+
+.card h3 {
+    font-size: 1rem;
+    margin-bottom: 6px;
+    flex: 1;
+}
+
+.card h3 a {
+    color: #2d3436;
+    text-decoration: none;
+}
+
+.card h3 a:hover {
+    color: #3498db;
+}
+
+.card .desc {
+    font-size: 0.9rem;
+    color: #636e72;
+    margin-bottom: 8px;
+}
+
+.card .meta {
+    font-size: 0.8rem;
+    color: #b2bec3;
+    display: flex;
+    gap: 15px;
+}
+
+/* ===== Jokes section ===== */
+.joke-section {
+    margin-top: 35px;
+}
+
+.joke-section h2 {
+    font-size: 1.3rem;
+    margin-bottom: 15px;
+    padding-left: 12px;
+    color: #2d3436;
+}
+
+.joke-list {
+    display: grid;
+    gap: 10px;
+}
+
+.joke-card {
+    background: #fff;
+    border-radius: 10px;
+    padding: 14px 16px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+    display: flex;
+    gap: 14px;
+    align-items: flex-start;
+}
+
+.joke-number {
+    background: #f39c12;
+    color: #fff;
+    border-radius: 50%;
+    width: 28px;
+    height: 28px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.85rem;
+    font-weight: bold;
+    flex-shrink: 0;
+}
+
+.joke-content p {
+    font-size: 0.95rem;
+    color: #2d3436;
+    margin-bottom: 8px;
+}
+
+.joke-tags {
+    display: flex;
+    gap: 8px;
+    flex-wrap: wrap;
+}
+
+.tag {
+    background: #f1f2f6;
+    color: #636e72;
+    font-size: 0.75rem;
+    padding: 3px 10px;
+    border-radius: 12px;
+}
+
+/* ===== Archive list ===== */
+.archive-list {
+    list-style: none;
+    padding: 0;
+}
+
+.archive-list li {
+    background: #fff;
+    margin-bottom: 8px;
+    border-radius: 8px;
+    box-shadow: 0 2px 6px rgba(0,0,0,0.05);
+}
+
+.archive-list li a {
+    display: block;
+    padding: 14px 18px;
+    color: #2d3436;
+    text-decoration: none;
+    font-weight: 500;
+}
+
+.archive-list li a:hover {
+    background: #f1f2f6;
+    color: #3498db;
+}
+
+/* ===== 双报告：热点汇总 + 笑话榜 ===== */
+.report-divider {
+    border-top: 2px dashed #dfe6e9;
+    margin: 40px 0;
+}
+
+.section-sub {
+    font-size: 0.85rem;
+    color: #b2bec3;
+    margin-bottom: 14px;
+}
+
+.note {
+    font-size: 0.8rem;
+    color: #ffeaa7;
+    margin-top: 6px;
+}
+
+.heat {
+    color: #e17055;
+    font-weight: 600;
+}
+
+.empty-hint {
+    font-size: 0.9rem;
+    color: #b2bec3;
+    padding: 12px 0;
+}
+
+.funny-section {
+    margin-top: 0;
+}
+
+.joke-title a {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #636e72;
+    text-decoration: none;
+}
+
+.joke-title a:hover {
+    color: #3498db;
+}
+
+.joke-text {
+    font-size: 0.98rem;
+    color: #2d3436;
+    line-height: 1.7;
+}
+
+.tag-real {
+    background: #dff9fb;
+    color: #0984e3;
+}
+
+.tag-gen {
+    background: #dcdde1;
+    color: #57606f;
+}
+
+/* ===== Footer ===== */
+.site-footer {
+    text-align: center;
+    padding: 30px 0 20px;
+    color: #b2bec3;
+    font-size: 0.85rem;
+}
+
+.site-footer a {
+    color: #3498db;
+    text-decoration: none;
+}
+
+.site-footer a:hover {
+    text-decoration: underline;
+}
+
+/* ===== Responsive ===== */
+@media (max-width: 600px) {
+    .site-header h1 {
+        font-size: 1.5rem;
+    }
+    
+    .card {
+        flex-direction: column;
+        gap: 8px;
+    }
+    
+    .card-rank {
+        font-size: 1.1rem;
+    }
+}
