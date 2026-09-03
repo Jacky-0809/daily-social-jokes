@@ -11,4 +11,4 @@ venv/
 # 临时/本地
 *.log
 /tmp/
-/reports/*.pdf
+/output/*.pdf

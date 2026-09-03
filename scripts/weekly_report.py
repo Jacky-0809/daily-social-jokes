@@ -39,8 +39,8 @@ def main():
 
     date_str = data["date"]
 
-    # 1. 生成 PDF
-    pdf_dir = ROOT / "reports"
+    # 1. 生成 PDF 到 output/ 目录
+    pdf_dir = ROOT / "output"
     pdf_dir.mkdir(exist_ok=True)
     pdf_path = pdf_dir / f"social_report_{date_str}.pdf"
     generate_pdf(data, str(pdf_path))
