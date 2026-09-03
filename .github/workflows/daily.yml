@@ -45,14 +45,6 @@ jobs:
         run: |
           python scripts/run.py
 
-      - name: Generate PDF & Send Email (Friday report)
-        env:
-          REPORT_EMAIL_TO: ${{ secrets.REPORT_EMAIL_TO || 'j68251389@gmail.com' }}
-          GMAIL_USER: ${{ secrets.GMAIL_USER }}
-          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
-        run: |
-          python scripts/weekly_report.py || echo "⚠️ PDF/邮件步骤未完全成功（可能未配置邮件Secret）"
-
       - name: Commit updated data
         run: |
           git config user.name "github-actions[bot]"
