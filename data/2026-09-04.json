@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-04",
+  "fetched_at": "2026-09-04T08:17:27.455831+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#POCOX8Series",
+        "description": "",
+        "query": "%23POCOX8Series",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%23POCOX8Series",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "श्री कृष्ण",
+        "description": "",
+        "query": "%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%E0%A4%B6%E0%A5%8D%E0%A4%B0%E0%A5%80%20%E0%A4%95%E0%A5%83%E0%A4%B7%E0%A5%8D%E0%A4%A3",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "#TEN_OUTWEST",
+        "description": "",
+        "query": "%23TEN_OUTWEST",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%23TEN_OUTWEST",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#HappyJanmashtami",
+        "description": "",
+        "query": "%23HappyJanmashtami",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%23HappyJanmashtami",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#TOISocialImpactSummit2026",
+        "description": "",
+        "query": "%23TOISocialImpactSummit2026",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%23TOISocialImpactSummit2026",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "#GeminiConcertD1",
+        "description": "",
+        "query": "%23GeminiConcertD1",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%23GeminiConcertD1",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "ボカロ曲",
+        "description": "",
+        "query": "%E3%83%9C%E3%82%AB%E3%83%AD%E6%9B%B2",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=%E3%83%9C%E3%82%AB%E3%83%AD%E6%9B%B2",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "EOS-05",
+        "description": "",
+        "query": "EOS-05",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=EOS-05",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "Hayırlı Cumalar",
+        "description": "",
+        "query": "Hay%C4%B1rl%C4%B1%20Cumalar",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=Hay%C4%B1rl%C4%B1%20Cumalar",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "GEMINI START THE ADVENTURE",
+        "description": "",
+        "query": "GEMINI%20START%20THE%20ADVENTURE",
+        "timestamp": "2026-09-04T07:31:12.180000+00:00",
+        "url": "https://twitter.com/search?q=GEMINI%20START%20THE%20ADVENTURE",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "台风巴威 ",
+        "description": "",
+        "author": "正杰世辉",
+        "likes": 7862,
+        "comments": 0,
+        "note_id": "6a4f16c200000000170098c3",
+        "url": "https://www.xiaohongshu.com/explore/6a4f16c200000000170098c3",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "儿童手表howto 电话手表 怀念以前可惜回不去了 智能儿童电话定位手表 智能手",
+        "description": "",
+        "author": "幽默的幽灵",
+        "likes": 7443,
+        "comments": 0,
+        "note_id": "6a657951000000001303f8aa",
+        "url": "https://www.xiaohongshu.com/explore/6a657951000000001303f8aa",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "孙怡：对对对，我想整，但是经纪人不让",
+        "description": "",
+        "author": "鹅影栖舟",
+        "likes": 7312,
+        "comments": 0,
+        "note_id": "6a33427e0000000011011ccd",
+        "url": "https://www.xiaohongshu.com/explore/6a33427e0000000011011ccd",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "🌟深圳Citywalk｜终于有人把深圳说清楚啦！",
+        "description": "",
+        "author": "淑钰",
+        "likes": 6100,
+        "comments": 0,
+        "note_id": "6a6033d9000000000401ecf9",
+        "url": "https://www.xiaohongshu.com/explore/6a6033d9000000000401ecf9",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "长得好看到底是啥感觉啊？长得好看的人 五官分析 穿衣风格 看脸定风格 想要变好看",
+        "description": "",
+        "author": "AHANm3a",
+        "likes": 5839,
+        "comments": 0,
+        "note_id": "6a3b2f5c000000001c027d8f",
+        "url": "https://www.xiaohongshu.com/explore/6a3b2f5c000000001c027d8f",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "甄嬛传里的细节，有十级观众来解答吗？",
+        "description": "",
+        "author": "一甩头把自己甩到火星上",
+        "likes": 5234,
+        "comments": 0,
+        "note_id": "6a3f4477000000000702ef2a",
+        "url": "https://www.xiaohongshu.com/explore/6a3f4477000000000702ef2a",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "超前审美 ",
+        "description": "",
+        "author": "一颗四季豆",
+        "likes": 5118,
+        "comments": 0,
+        "note_id": "6a717146000000002500facf",
+        "url": "https://www.xiaohongshu.com/explore/6a717146000000002500facf",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "这个全程都是海陆跳的吗？",
+        "description": "",
+        "author": "小猴日记",
+        "likes": 4808,
+        "comments": 0,
+        "note_id": "6a6c26ba00000000060043c4",
+        "url": "https://www.xiaohongshu.com/explore/6a6c26ba00000000060043c4",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "一家四口坐漂流鸭翻船，19个月幼童溺亡💔",
+        "description": "",
+        "author": "澎湃新闻",
+        "likes": 4516,
+        "comments": 0,
+        "note_id": "6a6028ef0000000009035c92",
+        "url": "https://www.xiaohongshu.com/explore/6a6028ef0000000009035c92",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "小哈兰德终于现身了？奶香奶香的❤",
+        "description": "",
+        "author": "silveraudio",
+        "likes": 4489,
+        "comments": 0,
+        "note_id": "6a5ab2d2000000001400768a",
+        "url": "https://www.xiaohongshu.com/explore/6a5ab2d2000000001400768a",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "女篮世界杯中国vs美国",
+        "description": "",
+        "sentence_id": "2634859",
+        "hot": 11108074,
+        "event_time": 1788489406,
+        "url": "https://www.douyin.com/hot/2634859",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "各省文旅都成“搬运工”了",
+        "description": "",
+        "sentence_id": "2634779",
+        "hot": 10587018,
+        "event_time": 1788485596,
+        "url": "https://www.douyin.com/hot/2634779",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "从六张网看投资向新向优",
+        "description": "",
+        "sentence_id": "2635305",
+        "hot": 10260307,
+        "event_time": 1788505941,
+        "url": "https://www.douyin.com/hot/2635305",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "在世界最深实验室里寻找暗物质",
+        "description": "",
+        "sentence_id": "2635000",
+        "hot": 9865812,
+        "event_time": 1788493249,
+        "url": "https://www.douyin.com/hot/2635000",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "当我有一件燕麦格雷外套",
+        "description": "",
+        "sentence_id": "2634989",
+        "hot": 9232023,
+        "event_time": 1788492882,
+        "url": "https://www.douyin.com/hot/2634989",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "台风科罗旺逼近24小时警戒线",
+        "description": "",
+        "sentence_id": "2634955",
+        "hot": 9112129,
+        "event_time": 1788491962,
+        "url": "https://www.douyin.com/hot/2634955",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "女高音歌唱家龚爽去世",
+        "description": "",
+        "sentence_id": "2635043",
+        "hot": 8118452,
+        "event_time": 1788494517,
+        "url": "https://www.douyin.com/hot/2635043",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "张雪机车出战大海道越野拉力赛",
+        "description": "",
+        "sentence_id": "2635016",
+        "hot": 7914690,
+        "event_time": 1788493892,
+        "url": "https://www.douyin.com/hot/2635016",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "人民锐评饭圈霸占12345",
+        "description": "",
+        "sentence_id": "2634757",
+        "hot": 7810892,
+        "event_time": 1788481705,
+        "url": "https://www.douyin.com/hot/2634757",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "福建本轮强降雨何时结束",
+        "description": "",
+        "sentence_id": "2634752",
+        "hot": 7795007,
+        "event_time": 1788479396,
+        "url": "https://www.douyin.com/hot/2634752",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "习近平心中的上合大家庭",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xypsv72xyydgm2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/03/19/BMjAyNjA5MDMxOTM0NDBfOTc0ODg5OTY4XzIwNzc5NTk3OTc4OV8wXzM=_Bf63adba94093aa9182d73e257ca5317b.jpg?tag=1-1788509846-unknown-0-0j44nmjccf-ce737e9b4ec4ec99&clientCacheKey=3xypsv72xyydgm2.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xypsv72xyydgm2",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "福建莆田因强降雨有人员失联",
+        "description": "",
+        "author": "",
+        "hot": 12644000,
+        "photo_id": "3xknu29hjcta9x4",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/04/12/BMjAyNjA5MDQxMjQwNTJfMjM2OTY5NzI3Nl8yMDc4NTA0MTk1NzFfMF8z_B924a6f24b2b4510a00c1f6cca0f9d131.jpg?tag=1-1788509846-unknown-0-ayhmi9dj4v-ba143f7e723b1619&type=hot&clientCacheKey=3xknu29hjcta9x4.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xknu29hjcta9x4",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "吉隆口岸淤泥里发现警服",
+        "description": "",
+        "author": "",
+        "hot": 12639000,
+        "photo_id": "3xrxxa68hpaggsy",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/03/23/BMjAyNjA5MDMyMzU5MTdfMTM4MDIwMjAwNl8yMDc4MTY5NTcwMTNfMF8z_B09ce1e7a4295a4eb6689e6b73a7950fb.jpg?tag=1-1788509846-unknown-0-9rqywi6haz-f024e5670b352b46&type=hot&clientCacheKey=3xrxxa68hpaggsy.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xrxxa68hpaggsy",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "吉隆泥石流救援人员连续奋战",
+        "description": "",
+        "author": "",
+        "hot": 12636000,
+        "photo_id": "3xznme8q4ka6twm",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/04/09/BMjAyNjA5MDQwOTMwMTlfMTkyNjcyODk5MF8yMDc4MzQ3MDQwNDhfMF8z_Bd5ccd27c2d15e138e918038bc012bbce.jpg?tag=1-1788509846-unknown-0-wpelvbu0po-8c3758e0fab48255&clientCacheKey=3xznme8q4ka6twm.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xznme8q4ka6twm",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "武大回应女教授被举报",
+        "description": "",
+        "author": "",
+        "hot": 12635000,
+        "photo_id": "3x6py7bstmvhj9y",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/03/21/BMjAyNjA5MDMyMTE1MjZfMTMwMzE1MDg5N18yMDc4MDU2MDQzNjJfMV8z_Be3113dcaff4808ad2ca98cbdab9805ff.jpg?tag=1-1788509846-unknown-0-15vcrllnli-ad43b3513e0515be&type=hot&clientCacheKey=3x6py7bstmvhj9y.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x6py7bstmvhj9y",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "“梅姨”最新画像曝光",
+        "description": "",
+        "author": "",
+        "hot": 12634000,
+        "photo_id": "3x8bwfx56xdgfh6",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/04/10/BMjAyNjA5MDQxMDEyMDBfMTUzMTAzMzc1OF8yMDc4Mzc3Nzc1NjRfMF8z_Bf268a624d3e7260078c7e5fb016e39ba.jpg?tag=1-1788509846-unknown-0-aywf6uxwh3-40a4b5a211472688&clientCacheKey=3x8bwfx56xdgfh6.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x8bwfx56xdgfh6",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "台风科罗旺逼近24小时警戒线",
+        "description": "",
+        "author": "",
+        "hot": 12634000,
+        "photo_id": "3xdswxfcbytdvke",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/04/12/BMjAyNjA5MDQxMjAwMTVfMTMwMzE1MDg5N18yMDc4NDY5ODc4MDZfMV8z_Be01822932be8e53abc9560dea18693b8.jpg?tag=1-1788509846-unknown-0-eztbmtslev-7cbdc60a644935be&type=hot&clientCacheKey=3xdswxfcbytdvke.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xdswxfcbytdvke",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "女篮世界杯中国vs美国",
+        "description": "",
+        "author": "",
+        "hot": 12634000,
+        "photo_id": "3x9nsj3jj3vrn7u",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/04/00/BMjAyNjA5MDQwMDI5MTZfMTczOTMwMjg3Nl8yMDc4MTgxNjM2MjNfMl8z_B331d7ef0046d62697b4172e8ac581ae6.jpg?tag=1-1788509846-unknown-0-2uxfou6zej-c1bffddeef7bcf97&type=hot&clientCacheKey=3x9nsj3jj3vrn7u.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x9nsj3jj3vrn7u",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "中小学全面启用新教材",
+        "description": "",
+        "author": "",
+        "hot": 12634000,
+        "photo_id": "3xsz4gacpryr3nu",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/01/18/BMjAyNjA5MDExODA2MTRfMTQzODMyNTkyOV8yMDc2MTM0NDY1NzZfMF8z_B7840b8087a04c96debbde8eb4ee0f053.jpg?tag=1-1788509846-unknown-0-0jc7xzlmzp-cf018a6e73fe4933&clientCacheKey=3xsz4gacpryr3nu.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xsz4gacpryr3nu",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "心疼一诺",
+        "description": "",
+        "author": "",
+        "hot": 11696000,
+        "photo_id": "3xj24s4zyxgvr9s",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/03/23/BMjAyNjA5MDMyMzA2NDZfMTA4NjY0NzM3N18yMDc4MTQyNDk1MDNfMl8z_B1e0c067fbf7eccd899526f6a96bfd34c.jpg?tag=1-1788509846-unknown-0-jvkikimrfc-91d8f2e1ce10dd90&type=hot&clientCacheKey=3xj24s4zyxgvr9s.jpg&di=3997536a&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xj24s4zyxgvr9s",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
