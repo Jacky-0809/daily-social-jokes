@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-11",
+  "fetched_at": "2026-09-11T08:22:44.346682+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#星萌祭の思い出",
+        "description": "",
+        "query": "%23%E6%98%9F%E8%90%8C%E7%A5%AD%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%23%E6%98%9F%E8%90%8C%E7%A5%AD%E3%81%AE%E6%80%9D%E3%81%84%E5%87%BA",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#TheRomanticTourBKK",
+        "description": "",
+        "query": "%23TheRomanticTourBKK",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%23TheRomanticTourBKK",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "萌え文化祭",
+        "description": "",
+        "query": "%E8%90%8C%E3%81%88%E6%96%87%E5%8C%96%E7%A5%AD",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%E8%90%8C%E3%81%88%E6%96%87%E5%8C%96%E7%A5%AD",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#SiagaPeduliSesama",
+        "description": "",
+        "query": "%23SiagaPeduliSesama",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%23SiagaPeduliSesama",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "Hayırlı Cumalar",
+        "description": "",
+        "query": "Hay%C4%B1rl%C4%B1%20Cumalar",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=Hay%C4%B1rl%C4%B1%20Cumalar",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "Bantuan Penanggulangan Bencana",
+        "description": "",
+        "query": "Bantuan%20Penanggulangan%20Bencana",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=Bantuan%20Penanggulangan%20Bencana",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "#NHCFoodsLiberiaExpansion",
+        "description": "",
+        "query": "%23NHCFoodsLiberiaExpansion",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%23NHCFoodsLiberiaExpansion",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "#يوم_الجمعه",
+        "description": "",
+        "query": "%23%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%87",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%23%D9%8A%D9%88%D9%85_%D8%A7%D9%84%D8%AC%D9%85%D8%B9%D9%87",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "Rams",
+        "description": "",
+        "query": "Rams",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=Rams",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "カードダス",
+        "description": "",
+        "query": "%E3%82%AB%E3%83%BC%E3%83%89%E3%83%80%E3%82%B9",
+        "timestamp": "2026-09-11T08:08:07.505000+00:00",
+        "url": "https://twitter.com/search?q=%E3%82%AB%E3%83%BC%E3%83%89%E3%83%80%E3%82%B9",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "央视主持人 顾国宁 热点",
+        "description": "",
+        "author": "柚柚子",
+        "likes": 9548,
+        "comments": 0,
+        "note_id": "6a73de3e0000000022032f3a",
+        "url": "https://www.xiaohongshu.com/explore/6a73de3e0000000022032f3a",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "秋天穿这套好韩！！ ",
+        "description": "",
+        "author": "Camilla^",
+        "likes": 9362,
+        "comments": 0,
+        "note_id": "6a8682bf000000002702d5c6",
+        "url": "https://www.xiaohongshu.com/explore/6a8682bf000000002702d5c6",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "猪瘾犯的时候，反复观看",
+        "description": "",
+        "author": "你今天拉屎了嘛",
+        "likes": 8087,
+        "comments": 0,
+        "note_id": "6a8537340000000005032e54",
+        "url": "https://www.xiaohongshu.com/explore/6a8537340000000005032e54",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "姜乘澜分享的面试妆 后面还有发型讲解哦",
+        "description": "",
+        "author": "步步",
+        "likes": 7006,
+        "comments": 0,
+        "note_id": "6a792985000000002403f851",
+        "url": "https://www.xiaohongshu.com/explore/6a792985000000002403f851",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "00后老板给安排的下午茶，年轻人吃的喝的就是不一样",
+        "description": "",
+        "author": "狐狸花猫娱乐集",
+        "likes": 6601,
+        "comments": 0,
+        "note_id": "6a761bcf000000002800a07c",
+        "url": "https://www.xiaohongshu.com/explore/6a761bcf000000002800a07c",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "难怪彭蹻这段删减了 ",
+        "description": "",
+        "author": "沉迷追剧的海绵宝宝",
+        "likes": 4518,
+        "comments": 0,
+        "note_id": "6a7fc2b200000000220307a1",
+        "url": "https://www.xiaohongshu.com/explore/6a7fc2b200000000220307a1",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "成都酒吧还是太权威了",
+        "description": "",
+        "author": "加乃麻美式",
+        "likes": 3474,
+        "comments": 0,
+        "note_id": "6a6e584600000000260369e6",
+        "url": "https://www.xiaohongshu.com/explore/6a6e584600000000260369e6",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "这么多人不工作，天天闲着，社会真的不会出乱",
+        "description": "",
+        "author": "烤布蕾乌龙冰",
+        "likes": 3351,
+        "comments": 0,
+        "note_id": "6a7aab9c00000000250079b2",
+        "url": "https://www.xiaohongshu.com/explore/6a7aab9c00000000250079b2",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "？？？ ",
+        "description": "",
+        "author": "爱吃番茄炸蛋米线",
+        "likes": 3154,
+        "comments": 0,
+        "note_id": "6a826ba9000000003400db97",
+        "url": "https://www.xiaohongshu.com/explore/6a826ba9000000003400db97",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "11cm脸宽是这样的",
+        "description": "",
+        "author": "sundmnlhr",
+        "likes": 3097,
+        "comments": 0,
+        "note_id": "6a700abb0000000008013060",
+        "url": "https://www.xiaohongshu.com/explore/6a700abb0000000008013060",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "国家对成品油价格实施调控",
+        "description": "",
+        "sentence_id": "2645021",
+        "hot": 11807855,
+        "event_time": 1789110213,
+        "url": "https://www.douyin.com/hot/2645021",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "中国男篮大胜哈萨克斯坦",
+        "description": "",
+        "sentence_id": "2644652",
+        "hot": 11190504,
+        "event_time": 1789096447,
+        "url": "https://www.douyin.com/hot/2644652",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "一组数据感受服务出海加速度",
+        "description": "",
+        "sentence_id": "2644775",
+        "hot": 11061328,
+        "event_time": 1789102358,
+        "url": "https://www.douyin.com/hot/2644775",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "莱巴金娜首进美网决赛",
+        "description": "",
+        "sentence_id": "2644659",
+        "hot": 11039279,
+        "event_time": 1789096512,
+        "url": "https://www.douyin.com/hot/2644659",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "曼联4:0大胜沙巴巴库",
+        "description": "",
+        "sentence_id": "2644348",
+        "hot": 10482556,
+        "event_time": 1789081528,
+        "url": "https://www.douyin.com/hot/2644348",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "这是我送给爱师的花花呀",
+        "description": "",
+        "sentence_id": "2643472",
+        "hot": 10476369,
+        "event_time": 1789021116,
+        "url": "https://www.douyin.com/hot/2643472",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "当中式审美回到下颌角时代",
+        "description": "",
+        "sentence_id": "2644069",
+        "hot": 9301064,
+        "event_time": 1789039366,
+        "url": "https://www.douyin.com/hot/2644069",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "歌舞里的中华情",
+        "description": "",
+        "sentence_id": "2644487",
+        "hot": 9233454,
+        "event_time": 1789091928,
+        "url": "https://www.douyin.com/hot/2644487",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "老区发生了翻天覆地的变化",
+        "description": "",
+        "sentence_id": "2645081",
+        "hot": 9223841,
+        "event_time": 1789112263,
+        "url": "https://www.douyin.com/hot/2645081",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "美联储9月加息概率升至70%",
+        "description": "",
+        "sentence_id": "2644512",
+        "hot": 9157293,
+        "event_time": 1789092973,
+        "url": "https://www.douyin.com/hot/2644512",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "习主席引领金砖合作",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xgkyk5r85pfryc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/11/BMjAyNjA5MTExMTA4MjNfMTA5NjYzNzQwMV8yMDg1NDQzMTQ3MTRfMF8z_Bf74e9d88e3216e8bcc0b68c2d87d07f1.jpg?tag=1-1789114963-unknown-0-tjlzhcvxpo-4ca82b866a672b75&type=hot&clientCacheKey=3xgkyk5r85pfryc.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xgkyk5r85pfryc",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "深圳警方通报记者采访遭掌掴",
+        "description": "",
+        "author": "",
+        "hot": 12349000,
+        "photo_id": "3x8qu43k5p9g28c",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/14/BMjAyNjA5MTExNDI2MzVfMTMxMjExOTkyNV8yMDg1NjEzMjcyNzdfMF8z_B42128028226bc5b6702055fc81ea2898.jpg?tag=1-1789114963-unknown-0-c9nygjvaku-cd27d5e3f24107e1&type=hot&clientCacheKey=3x8qu43k5p9g28c.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x8qu43k5p9g28c",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "香蕉地喷农药毒死隔壁5万斤牛蛙",
+        "description": "",
+        "author": "",
+        "hot": 12339000,
+        "photo_id": "3xaq4zj5e4qt7bk",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/10/21/BMjAyNjA5MTAyMTMzNTZfMTI4NDY4MDI4NF8yMDg1MDYyODgwMzVfMF8z_Bab01709a394d925d53df2df8e6fd7fcd.jpg?tag=1-1789114963-unknown-0-iiy34ye0xv-474a96101dc6e8e6&type=hot&clientCacheKey=3xaq4zj5e4qt7bk.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xaq4zj5e4qt7bk",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "我国发现世界级规模的深海矿床",
+        "description": "",
+        "author": "",
+        "hot": 11884000,
+        "photo_id": "3xc8ddm2fqtepp2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/11/BMjAyNjA5MTExMTEwNDVfOTE3NzkyMjA2XzIwODU0NDUxNTY3NV8wXzM=_B3f9c6c6acb7e68fd6099927e19835d87.jpg?tag=1-1789114963-unknown-0-4bii9th9a4-e0e3c4d41e7f135b&type=hot&clientCacheKey=3xc8ddm2fqtepp2.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xc8ddm2fqtepp2",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "香港演员雷宇扬去世",
+        "description": "",
+        "author": "",
+        "hot": 11656000,
+        "photo_id": "3x8473ezgxceptc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/15/BMjAyNjA5MTExNTI3NDBfMTMzODE5MjQwMV8yMDg1NjY5NDg5MTVfMF8z_B1bdc93f7031ea29e31dd9a21497b657e.jpg?tag=1-1789114963-unknown-0-r9ssyiinn9-4d62184e956744fa&type=hot&clientCacheKey=3x8473ezgxceptc.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x8473ezgxceptc",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "9月11日24时国内油价将调整",
+        "description": "",
+        "author": "",
+        "hot": 11542000,
+        "photo_id": "3xet6hh26ez5qny",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/11/BMjAyNjA5MTExMTExMzBfMTg5NTcwODkyMF8yMDg1NDQ1NzAwMzZfMF8z_B2220cbf254655e3576bb31b56090c0f4.jpg?tag=1-1789114963-unknown-0-llwykscxec-653fadf1387b0047&type=hot&clientCacheKey=3xet6hh26ez5qny.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xet6hh26ez5qny",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "青岛失火货轮内部船舱现场曝光",
+        "description": "",
+        "author": "",
+        "hot": 11485000,
+        "photo_id": "3xx2pra9e8srtg2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/08/BMjAyNjA5MTEwODQ3NTJfMjIzMDEyNTgxXzIwODUzMzU4Njg3MF8wXzM=_Bf33ed99868962c29e84047c81859530d.jpg?tag=1-1789114963-unknown-0-0mq2lcahey-30a1d7a6408a75cc&type=hot&clientCacheKey=3xx2pra9e8srtg2.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xx2pra9e8srtg2",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "日本的梅毒严重到什么地步",
+        "description": "",
+        "author": "",
+        "hot": 11428000,
+        "photo_id": "3xw9dp9488vn9mg",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/11/11/BMjAyNjA5MTExMTAyMThfNjg3MDkwOTY0XzIwODU0Mzc2NTY3Ml8wXzM=_Bbba9dd5bcca4290d66668cde17638dd3.jpg?tag=1-1789114963-unknown-0-u7ldath4tr-56c8a8f0af7316e6&type=hot&clientCacheKey=3xw9dp9488vn9mg.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xw9dp9488vn9mg",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "中国人能飞现实版",
+        "description": "",
+        "author": "",
+        "hot": 10981000,
+        "photo_id": "3xwp7r8z7xbh3qu",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/10/18/BMjAyNjA5MTAxODI4MTRfMTUzNzUzMDA3MV8yMDg0ODc3MzE0NTBfMF8z_Ba12507fb129ad9ce5a8e724dd5726df7.jpg?tag=1-1789114963-unknown-0-xds2gytk7f-d10be02c020152a8&clientCacheKey=3xwp7r8z7xbh3qu.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xwp7r8z7xbh3qu",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "太子奶为什么消失了",
+        "description": "",
+        "author": "",
+        "hot": 10760000,
+        "photo_id": "3xjvtazccbttuy2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/10/11/BMjAyNjA5MTAxMTM5MjZfOTYyNzQ0OTcwXzIwODQ1MjEzMjM4NF8yXzM=_B1e896619560165e3b18c2a6b6f835b28.jpg?tag=1-1789114963-unknown-0-emgkjywb0o-7631ca8b3b0c5187&type=hot&clientCacheKey=3xjvtazccbttuy2.jpg&di=14394dc3&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xjvtazccbttuy2",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
