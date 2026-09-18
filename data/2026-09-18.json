@@ -1,0 +1,539 @@
+{
+  "date": "2026-09-18",
+  "fetched_at": "2026-09-18T08:33:44.913577+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#BallotNo2_DeepanshuForDUSU",
+        "description": "",
+        "query": "%23BallotNo2_DeepanshuForDUSU",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=%23BallotNo2_DeepanshuForDUSU",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#BallotNo2_DeepanshuForDUSU",
+        "description": "",
+        "query": "%23BallotNo2_DeepanshuForDUSU",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=%23BallotNo2_DeepanshuForDUSU",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "#AxiomGasIPOOpensToday",
+        "description": "",
+        "query": "%23AxiomGasIPOOpensToday",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=%23AxiomGasIPOOpensToday",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#RetirementHoTohAisa",
+        "description": "",
+        "query": "%23RetirementHoTohAisa",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=%23RetirementHoTohAisa",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#YuvaDharamSansad2026",
+        "description": "",
+        "query": "%23YuvaDharamSansad2026",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=%23YuvaDharamSansad2026",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "ソフィー",
+        "description": "",
+        "query": "%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=%E3%82%BD%E3%83%95%E3%82%A3%E3%83%BC",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "MAGIC LOVER Q1",
+        "description": "",
+        "query": "MAGIC%20LOVER%20Q1",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=MAGIC%20LOVER%20Q1",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "Hayırlı Cumalar",
+        "description": "",
+        "query": "Hay%C4%B1rl%C4%B1%20Cumalar",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=Hay%C4%B1rl%C4%B1%20Cumalar",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "Berantas Tindak Kriminal",
+        "description": "",
+        "query": "Berantas%20Tindak%20Kriminal",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=Berantas%20Tindak%20Kriminal",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "Axiom Gas Engineering",
+        "description": "",
+        "query": "Axiom%20Gas%20Engineering",
+        "timestamp": "2026-09-18T08:12:57.292000+00:00",
+        "url": "https://twitter.com/search?q=Axiom%20Gas%20Engineering",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "当我发布了一条危险评论后",
+        "description": "",
+        "author": "人类标本😿（奶家人，反串子、小鬼、角色黑）",
+        "likes": 9921,
+        "comments": 0,
+        "note_id": "6a6e9e4b000000002402c10b",
+        "url": "https://www.xiaohongshu.com/explore/6a6e9e4b000000002402c10b",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "汪很难过❗️汪去上班❗️",
+        "description": "",
+        "author": "Potatooo",
+        "likes": 6806,
+        "comments": 0,
+        "note_id": "6a90e1c80000000028006606",
+        "url": "https://www.xiaohongshu.com/explore/6a90e1c80000000028006606",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "一条视频帮您避开中药材的坑",
+        "description": "",
+        "author": "小路本草",
+        "likes": 6208,
+        "comments": 0,
+        "note_id": "6a8136aa000000000502b977",
+        "url": "https://www.xiaohongshu.com/explore/6a8136aa000000000502b977",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "看来开茶室还是挺辛苦的，您认为呢？热点社会百态",
+        "description": "",
+        "author": "初夏",
+        "likes": 6119,
+        "comments": 0,
+        "note_id": "6a6fe8c5000000002800af96",
+        "url": "https://www.xiaohongshu.com/explore/6a6fe8c5000000002800af96",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "带你体验骑行圈出轨成瘾者",
+        "description": "",
+        "author": "体验不同人生",
+        "likes": 5843,
+        "comments": 0,
+        "note_id": "6a8ceece0000000010029f9d",
+        "url": "https://www.xiaohongshu.com/explore/6a8ceece0000000010029f9d",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "再被指抄袭，米哈游新作与《艾尔登法环》",
+        "description": "",
+        "author": "勇者花七",
+        "likes": 3986,
+        "comments": 0,
+        "note_id": "6a8f9621000000002503ed41",
+        "url": "https://www.xiaohongshu.com/explore/6a8f9621000000002503ed41",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "15件让家里变宽敞的神奇架子,见过俩算我输",
+        "description": "",
+        "author": "邻家日用优选",
+        "likes": 3978,
+        "comments": 0,
+        "note_id": "6a90b82400000000200327b6",
+        "url": "https://www.xiaohongshu.com/explore/6a90b82400000000200327b6",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "是哪个天才先发现她俩像的...",
+        "description": "",
+        "author": "Henry Lau",
+        "likes": 3359,
+        "comments": 0,
+        "note_id": "6a86ac19000000003301b395",
+        "url": "https://www.xiaohongshu.com/explore/6a86ac19000000003301b395",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "熊本灾区 拒收千纸鹤",
+        "description": "",
+        "author": "时光日语",
+        "likes": 3218,
+        "comments": 0,
+        "note_id": "6a6fea2e0000000025006b46",
+        "url": "https://www.xiaohongshu.com/explore/6a6fea2e0000000025006b46",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "“˗ˏˋ🥁ˎˊ˗ 好文案，一句就够！”",
+        "description": "",
+        "author": "🐮牛牛",
+        "likes": 2506,
+        "comments": 0,
+        "note_id": "6a810092000000002403d35d",
+        "url": "https://www.xiaohongshu.com/explore/6a810092000000002403d35d",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "九一八事变爆发95周年",
+        "description": "",
+        "sentence_id": "2654578",
+        "hot": 10914829,
+        "event_time": 1789686544,
+        "url": "https://www.douyin.com/hot/2654578",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "油价预计9月24日24时上调",
+        "description": "",
+        "sentence_id": "2654775",
+        "hot": 10826098,
+        "event_time": 1789698539,
+        "url": "https://www.douyin.com/hot/2654775",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "一条运河改写大西南",
+        "description": "",
+        "sentence_id": "2655197",
+        "hot": 10813600,
+        "event_time": 1789715569,
+        "url": "https://www.douyin.com/hot/2655197",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "中国海警正告菲方停止侵权挑衅",
+        "description": "",
+        "sentence_id": "2655109",
+        "hot": 10628600,
+        "event_time": 1789712113,
+        "url": "https://www.douyin.com/hot/2655109",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "美军一架F16战斗机坠毁",
+        "description": "",
+        "sentence_id": "2654584",
+        "hot": 10065580,
+        "event_time": 1789686790,
+        "url": "https://www.douyin.com/hot/2654584",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "一人一句为中国男篮加油",
+        "description": "",
+        "sentence_id": "2654910",
+        "hot": 9940515,
+        "event_time": 1789704374,
+        "url": "https://www.douyin.com/hot/2654910",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "博主回应记录妈妈的最后14天",
+        "description": "",
+        "sentence_id": "2655019",
+        "hot": 8586151,
+        "event_time": 1789709675,
+        "url": "https://www.douyin.com/hot/2655019",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "寻找长征精神的回响",
+        "description": "",
+        "sentence_id": "2655173",
+        "hot": 8570544,
+        "event_time": 1789714633,
+        "url": "https://www.douyin.com/hot/2655173",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "秋天怎么能不吃家乡火锅",
+        "description": "",
+        "sentence_id": "2653846",
+        "hot": 8440251,
+        "event_time": 1789629392,
+        "url": "https://www.douyin.com/hot/2653846",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "秋冬外套一衣穿三季穿搭分享",
+        "description": "",
+        "sentence_id": "2653950",
+        "hot": 8425095,
+        "event_time": 1789633032,
+        "url": "https://www.douyin.com/hot/2653950",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "总书记这些话语掷地有声",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xpemfiavfkdkii",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/17/18/BMjAyNjA5MTcxODM0NTdfMjM2OTY5NzI3Nl8yMDkxOTkyODU2MzdfMF8z_B9ee7470a3e84aef4e005471fe24aa48c.jpg?tag=1-1789720423-unknown-0-zwtr8af3kv-7e06843ed00c85e0&type=hot&clientCacheKey=3xpemfiavfkdkii.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xpemfiavfkdkii",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "九一八事变95周年",
+        "description": "",
+        "author": "",
+        "hot": 12548000,
+        "photo_id": "3xt6ee3kupt2pty",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/17/14/BMjAyNjA5MTcxNDUxMjZfMTc3MzUzMzM5NV8yMDkxNzkzNjg0ODlfMF8z_Ba36f85cff3f3901e107cd151d768d00b.jpg?tag=1-1789720423-unknown-0-vvaji89mfo-a43ea9d56c2c8981&type=hot&clientCacheKey=3xt6ee3kupt2pty.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xt6ee3kupt2pty",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "上1休1上5休3",
+        "description": "",
+        "author": "",
+        "hot": 12538000,
+        "photo_id": "3xqktts99wgxj5u",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/14/13/BMjAyNjA5MTQxMzI1NTlfMTgzNjE0MzI5NF8yMDg4OTk5MDEwOThfMV8z_B31eedfef1c720fce859533abbac40385.jpg?tag=1-1789720423-unknown-0-ychrdrnagh-2baa09070c7c153f&clientCacheKey=3xqktts99wgxj5u.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xqktts99wgxj5u",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "警钟长鸣 吾辈自强",
+        "description": "",
+        "author": "",
+        "hot": 12062000,
+        "photo_id": "3xnw6k7w3ghmzuu",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/18/11/BMjAyNjA5MTgxMTM2NDBfMTg5NTcwODkyMF8yMDkyNTgyODA4ODFfMF8z_B4af60f38ca7dd2e5c235d12711b16db9.jpg?tag=1-1789720423-unknown-0-wg1ixke0wa-10df6e82084d771c&type=hot&clientCacheKey=3xnw6k7w3ghmzuu.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xnw6k7w3ghmzuu",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "中国男篮vs日本男篮",
+        "description": "",
+        "author": "",
+        "hot": 11824000,
+        "photo_id": "3xk62rmh76mj4pw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/17/23/BMjAyNjA5MTcyMzAxNTdfMTE3NjA1NjkwMl8yMDkyMjY1MDQ0MzhfMV8z_B553857901fc9fb7182eb14ac85dc4b2d.jpg?tag=1-1789720423-unknown-0-ccauvw9txy-9a998b20fca7a02b&type=hot&clientCacheKey=3xk62rmh76mj4pw.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xk62rmh76mj4pw",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "中国海警回应船艇遭菲船只碰撞",
+        "description": "",
+        "author": "",
+        "hot": 11705000,
+        "photo_id": "3xgitfzaj9bkgva",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/18/14/BMjAyNjA5MTgxNDE0MDVfMTMxMjExOTkyNV8yMDkyNjk0MjA0MDlfMF8z_B0e0c38027d68c70a661df112c1151fdf.jpg?tag=1-1789720423-unknown-0-688xtfidpy-fe10a1bc481a0204&clientCacheKey=3xgitfzaj9bkgva.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xgitfzaj9bkgva",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "731原队员向受伤害中国人民谢罪",
+        "description": "",
+        "author": "",
+        "hot": 11646000,
+        "photo_id": "3xpw4ym38a95pa6",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/18/12/BMjAyNjA5MTgxMjI0NTRfMjM2OTY5NzI3Nl8yMDkyNjE4MDcyOTZfMF8z_Bac09a0c2cb1443a6d1edbe23f527c95e.jpg?tag=1-1789720423-unknown-0-xub2jh0ylb-1bc5f5c7e30e2e18&type=hot&clientCacheKey=3xpw4ym38a95pa6.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xpw4ym38a95pa6",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "人民币升值创2023年以来新高",
+        "description": "",
+        "author": "",
+        "hot": 11616000,
+        "photo_id": "3xh2kqpa5i3rtkm",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/18/10/BMjAyNjA5MTgxMDQ3MjVfMTM5NDMyNTUwOF8yMDkyNTQyOTA2NTdfMF8z_B4b80d40c4a7fcbf4a23970b49761787b.jpg?tag=1-1789720423-unknown-0-jz6mttpywb-a0b69f84695c4777&clientCacheKey=3xh2kqpa5i3rtkm.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xh2kqpa5i3rtkm",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "永和豆浆就擦边视频道歉",
+        "description": "",
+        "author": "",
+        "hot": 11586000,
+        "photo_id": "3xtziqv3pjgqvk9",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/18/11/BMjAyNjA5MTgxMTM5MDlfMTUzNzU0ODc1OV8yMDkyNTg0NDI1NzVfMF8z_B367e22527248798c13ac8441333d0bc4.jpg?tag=1-1789720423-unknown-0-rrdygnrkrm-1d4484688d4002a9&type=hot&clientCacheKey=3xtziqv3pjgqvk9.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xtziqv3pjgqvk9",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "74岁泰王驾驶飞机回国",
+        "description": "",
+        "author": "",
+        "hot": 11160000,
+        "photo_id": "3xfrpnxnds2hamk",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/09/18/14/BMjAyNjA5MTgxNDM5MDNfNjg3MDkwOTY0XzIwOTI3MTM2MTgwNF8wXzM=_B84a6edd4d2e8e8d52fde3ef8f1fac506.jpg?tag=1-1789720423-unknown-0-g7pphe0fds-ac003d01431dd50c&type=hot&clientCacheKey=3xfrpnxnds2hamk.jpg&di=acb275d5&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xfrpnxnds2hamk",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
