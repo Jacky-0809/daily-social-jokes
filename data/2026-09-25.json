@@ -1,0 +1,428 @@
+{
+  "date": "2026-09-25",
+  "fetched_at": "2026-09-25T09:11:16.736397+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#SHUFFLE",
+        "description": "",
+        "query": "%23SHUFFLE",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%23SHUFFLE",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#MahaRpetAbhiyaan26",
+        "description": "",
+        "query": "%23MahaRpetAbhiyaan26",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%23MahaRpetAbhiyaan26",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "#Suraag2On_DDNational",
+        "description": "",
+        "query": "%23Suraag2On_DDNational",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%23Suraag2On_DDNational",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#TheVVAANInCinemasNow",
+        "description": "",
+        "query": "%23TheVVAANInCinemasNow",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%23TheVVAANInCinemasNow",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#LoveAndWar",
+        "description": "",
+        "query": "%23LoveAndWar",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%23LoveAndWar",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "チキチー",
+        "description": "",
+        "query": "%E3%83%81%E3%82%AD%E3%83%81%E3%83%BC",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%E3%83%81%E3%82%AD%E3%83%81%E3%83%BC",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "中秋の名月",
+        "description": "",
+        "query": "%E4%B8%AD%E7%A7%8B%E3%81%AE%E5%90%8D%E6%9C%88",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=%E4%B8%AD%E7%A7%8B%E3%81%AE%E5%90%8D%E6%9C%88",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "Papua Sah Dalam NKRI",
+        "description": "",
+        "query": "Papua%20Sah%20Dalam%20NKRI",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=Papua%20Sah%20Dalam%20NKRI",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "Local To Global UP",
+        "description": "",
+        "query": "Local%20To%20Global%20UP",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=Local%20To%20Global%20UP",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "REBECCA AT TODS MFW26",
+        "description": "",
+        "query": "REBECCA%20AT%20TODS%20MFW26",
+        "timestamp": "2026-09-25T08:54:19.193000+00:00",
+        "url": "https://twitter.com/search?q=REBECCA%20AT%20TODS%20MFW26",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "恋爱日记📔 ",
+        "description": "",
+        "author": "无敌菲菲酱ovo",
+        "likes": 9432,
+        "comments": 0,
+        "note_id": "6a7d3c2f000000002c000a35",
+        "url": "https://www.xiaohongshu.com/explore/6a7d3c2f000000002c000a35",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "周五下午弹性离岗 有多少公司能落实吗？",
+        "description": "",
+        "author": "三十还没立",
+        "likes": 8546,
+        "comments": 0,
+        "note_id": "6a73f3e9000000002202cf5a",
+        "url": "https://www.xiaohongshu.com/explore/6a73f3e9000000002202cf5a",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "降下神罚 ",
+        "description": "",
+        "author": "吉食已到（健康贪吃版）",
+        "likes": 6590,
+        "comments": 0,
+        "note_id": "6a90eb4f000000001803e1cb",
+        "url": "https://www.xiaohongshu.com/explore/6a90eb4f000000001803e1cb",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "不抽烟不喝酒 年轻人身体现状 酒精对人体的危害 喝完酒的状态 喝酒的男人 吸烟有",
+        "description": "",
+        "author": "王子佳",
+        "likes": 5722,
+        "comments": 0,
+        "note_id": "6a6eb81e0000000028008b2a",
+        "url": "https://www.xiaohongshu.com/explore/6a6eb81e0000000028008b2a",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "胖东来年末离场，杀鸡取卵的房东们",
+        "description": "",
+        "author": "小北侃聊",
+        "likes": 5384,
+        "comments": 0,
+        "note_id": "6a7a7de200000000220117b1",
+        "url": "https://www.xiaohongshu.com/explore/6a7a7de200000000220117b1",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "土豆芽不是俊生放的 ",
+        "description": "",
+        "author": "去您孖德吧",
+        "likes": 5092,
+        "comments": 0,
+        "note_id": "6a7fd91000000000220119f7",
+        "url": "https://www.xiaohongshu.com/explore/6a7fd91000000000220119f7",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "樱桃红iPhone18pro透明壳，太好看了吧！啊啊",
+        "description": "",
+        "author": "屿壳.",
+        "likes": 4660,
+        "comments": 0,
+        "note_id": "6a95f7a200000000260319ae",
+        "url": "https://www.xiaohongshu.com/explore/6a95f7a200000000260319ae",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "黑人：搓澡真是个神奇的东西_万万没想到 震惊 搓澡 搞笑",
+        "description": "",
+        "author": "娱乐芭比熊",
+        "likes": 4048,
+        "comments": 0,
+        "note_id": "6a90e04c000000000502b928",
+        "url": "https://www.xiaohongshu.com/explore/6a90e04c000000000502b928",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "第一眼你还能认出她是谁吗？一代人的回忆盛世美颜胭脂",
+        "description": "",
+        "author": "红爆爆爆",
+        "likes": 2925,
+        "comments": 0,
+        "note_id": "6a83c0f90000000025000cd2",
+        "url": "https://www.xiaohongshu.com/explore/6a83c0f90000000025000cd2",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "发个库存吧 ",
+        "description": "",
+        "author": "塘沽鸭货石家庄丶小辰",
+        "likes": 2858,
+        "comments": 0,
+        "note_id": "6a70eabf0000000005033a49",
+        "url": "https://www.xiaohongshu.com/explore/6a70eabf0000000005033a49",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "中美元首会谈",
+        "description": "",
+        "sentence_id": "2665423",
+        "hot": 12010046,
+        "event_time": 1790266760,
+        "url": "https://www.douyin.com/hot/2665423",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "习近平夫妇出席欢迎宴会",
+        "description": "",
+        "sentence_id": "2665462",
+        "hot": 11756589,
+        "event_time": 1790289407,
+        "url": "https://www.douyin.com/hot/2665462",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "月满中秋所愿皆圆",
+        "description": "",
+        "sentence_id": "2666516",
+        "hot": 11009676,
+        "event_time": 1790323594,
+        "url": "https://www.douyin.com/hot/2666516",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "白宫响起月亮代表我的心",
+        "description": "",
+        "sentence_id": "2665723",
+        "hot": 10998800,
+        "event_time": 1790301998,
+        "url": "https://www.douyin.com/hot/2665723",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "孙颖莎王楚钦进混双半决赛",
+        "description": "",
+        "sentence_id": "2665683",
+        "hot": 10423190,
+        "event_time": 1790300511,
+        "url": "https://www.douyin.com/hot/2665683",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "大熊猫平平福双即将赴美",
+        "description": "",
+        "sentence_id": "2665660",
+        "hot": 10408297,
+        "event_time": 1790299850,
+        "url": "https://www.douyin.com/hot/2665660",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "中秋节快乐",
+        "description": "",
+        "sentence_id": "2665591",
+        "hot": 9288186,
+        "event_time": 1790296972,
+        "url": "https://www.douyin.com/hot/2665591",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "中秋文案",
+        "description": "",
+        "sentence_id": "2665776",
+        "hot": 9206191,
+        "event_time": 1790303512,
+        "url": "https://www.douyin.com/hot/2665776",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "国庆假期小客车上高速免通行费",
+        "description": "",
+        "sentence_id": "2666521",
+        "hot": 9191205,
+        "event_time": 1790323664,
+        "url": "https://www.douyin.com/hot/2666521",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "第一视角看中美外交现场",
+        "description": "",
+        "sentence_id": "2665792",
+        "hot": 9157917,
+        "event_time": 1790304088,
+        "url": "https://www.douyin.com/hot/2665792",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": []
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
