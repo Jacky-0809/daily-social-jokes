@@ -1,0 +1,448 @@
+{
+  "date": "2026-10-09",
+  "fetched_at": "2026-10-09T10:59:00.705946+00:00",
+  "platforms": {
+    "x": [],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "原来日本当年是这样偷袭珍珠港的！怪不得美",
+        "description": "",
+        "author": "春哥影评馆",
+        "likes": 9111,
+        "comments": 0,
+        "note_id": "6a729337000000003203277d",
+        "url": "https://www.xiaohongshu.com/explore/6a729337000000003203277d",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "人民网：不要再说token了",
+        "description": "",
+        "author": "Ai先锋官",
+        "likes": 8579,
+        "comments": 0,
+        "note_id": "6a793aa60000000028001596",
+        "url": "https://www.xiaohongshu.com/explore/6a793aa60000000028001596",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "该收钱吗 ",
+        "description": "",
+        "author": "知食分子",
+        "likes": 8185,
+        "comments": 0,
+        "note_id": "6aa8cf9f00000000250366aa",
+        "url": "https://www.xiaohongshu.com/explore/6aa8cf9f00000000250366aa",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "🌟北京Citywalk｜终于有人把北京说清楚啦！",
+        "description": "",
+        "author": "淑钰",
+        "likes": 7472,
+        "comments": 0,
+        "note_id": "6a83cb76000000002402c715",
+        "url": "https://www.xiaohongshu.com/explore/6a83cb76000000002402c715",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "热卖2w➕的🇰🇷“鸳鸯”插肩袖大货实拍来喽‼️",
+        "description": "",
+        "author": "橘子Oni韩系穿搭",
+        "likes": 6937,
+        "comments": 0,
+        "note_id": "6aa25b6a0000000012027a1c",
+        "url": "https://www.xiaohongshu.com/explore/6aa25b6a0000000012027a1c",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "这就是没备课和备课的差距嘛",
+        "description": "",
+        "author": "佛系的曾老师",
+        "likes": 6504,
+        "comments": 0,
+        "note_id": "6a7fdd84000000003302f3b0",
+        "url": "https://www.xiaohongshu.com/explore/6a7fdd84000000003302f3b0",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "挖出知了猴 ",
+        "description": "",
+        "author": "柚柚",
+        "likes": 5853,
+        "comments": 0,
+        "note_id": "6a7a9d59000000002701ea49",
+        "url": "https://www.xiaohongshu.com/explore/6a7a9d59000000002701ea49",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "今日份霸迅猛龙最新活动，迅猛龙并不算很顶",
+        "description": "",
+        "author": "曹亦书",
+        "likes": 5200,
+        "comments": 0,
+        "note_id": "6a9ca8f300000000290122be",
+        "url": "https://www.xiaohongshu.com/explore/6a9ca8f300000000290122be",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "有人知道西藏下飞机全员拉屎是啥情况吗？要不是被升舱了都抢不到第一波厕所，排老长队",
+        "description": "",
+        "author": "丿11",
+        "likes": 4939,
+        "comments": 0,
+        "note_id": "6a6feaab000000003302fad8",
+        "url": "https://www.xiaohongshu.com/explore/6a6feaab000000003302fad8",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "贫穷限制了我的想象，章泽天钻石围巾近百万",
+        "description": "",
+        "author": "Goddess时尚穿搭",
+        "likes": 3285,
+        "comments": 0,
+        "note_id": "6a9cba6c00000000290171ac",
+        "url": "https://www.xiaohongshu.com/explore/6a9cba6c00000000290171ac",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "足不出户吃遍东南亚美食",
+        "description": "",
+        "sentence_id": "2685398",
+        "hot": 11743638,
+        "event_time": 1791428808,
+        "url": "https://www.douyin.com/hot/2685398",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "我镜头里的乡村田园",
+        "description": "",
+        "sentence_id": "2684800",
+        "hot": 11371139,
+        "event_time": 1791371449,
+        "url": "https://www.douyin.com/hot/2684800",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "我国加快建立全链条循环经济体系",
+        "description": "",
+        "sentence_id": "2686441",
+        "hot": 11147236,
+        "event_time": 1791462945,
+        "url": "https://www.douyin.com/hot/2686441",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "徒步人该交国庆作业了",
+        "description": "",
+        "sentence_id": "2684779",
+        "hot": 11087109,
+        "event_time": 1791370998,
+        "url": "https://www.douyin.com/hot/2684779",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "中国海警正告菲方：停止不实炒作",
+        "description": "",
+        "sentence_id": "2687316",
+        "hot": 10524897,
+        "event_time": 1791530587,
+        "url": "https://www.douyin.com/hot/2687316",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "净网：“成都小区楼顶埋男童”不实",
+        "description": "",
+        "sentence_id": "2687002",
+        "hot": 10498995,
+        "event_time": 1791521519,
+        "url": "https://www.douyin.com/hot/2687002",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "郑钦文进中网女单四强",
+        "description": "",
+        "sentence_id": "2687356",
+        "hot": 9339205,
+        "event_time": 1791531922,
+        "url": "https://www.douyin.com/hot/2687356",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "当我自创了生化摇",
+        "description": "",
+        "sentence_id": "2686871",
+        "hot": 9312816,
+        "event_time": 1791515914,
+        "url": "https://www.douyin.com/hot/2686871",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "超强厄尔尼诺已形成",
+        "description": "",
+        "sentence_id": "2686989",
+        "hot": 9282709,
+        "event_time": 1791520919,
+        "url": "https://www.douyin.com/hot/2686989",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "C罗被临时暂停葡萄牙国家队资格",
+        "description": "",
+        "sentence_id": "2686664",
+        "hot": 9192386,
+        "event_time": 1791506917,
+        "url": "https://www.douyin.com/hot/2686664",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "从“半条被子”到幸福日子",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xbzmj8zpvmmigc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/11/BMjAyNjEwMDkxMTE3MDRfOTc0ODg5OTY4XzIxMTYyNTU4MzYxOF8wXzM=_B0eca74d26bf633f86d2320ae1e0c9d0a.jpg?tag=1-1791543539-unknown-0-dprkui73pt-c60bfe121ff8d044&type=hot&clientCacheKey=3xbzmj8zpvmmigc.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xbzmj8zpvmmigc",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "郑钦文进中网女单四强",
+        "description": "",
+        "author": "",
+        "hot": 13253000,
+        "photo_id": "3x37ueuqwexf72m",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/17/BMjAyNjEwMDkxNzA3NTRfMTQxNzk5OTY5Ml8yMTE2NTQ4NDExNDFfMF8z_Ba04e2a2fd7118c75f104d506de79af53.jpg?tag=1-1791543539-unknown-0-7kb8y9mytv-370217926c0cf7eb&type=hot&clientCacheKey=3x37ueuqwexf72m.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x37ueuqwexf72m",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "开始有国庆假期戒断反应了",
+        "description": "",
+        "author": "",
+        "hot": 13248000,
+        "photo_id": "3x6mm7jfjszjgww",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/08/11/BMjAyNjEwMDgxMTEzMTJfNTczNDI2MDQxNV8yMTE1MzE2OTA4NDVfMV8z_B5192b968c08e92b2ecb5e82e9d8f4f8e.jpg?tag=1-1791543539-unknown-0-3nxug9gpi9-68d6b24e0e10a7af&type=hot&clientCacheKey=3x6mm7jfjszjgww.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x6mm7jfjszjgww",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "我国加快建立全链条循环经济体系",
+        "description": "",
+        "author": "",
+        "hot": 13245000,
+        "photo_id": "3xwvkt5bauj5kzm",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/09/BMjAyNjEwMDkwOTM3MjZfMTA4NzMyODYxM18yMTE2MTcyNjk0OTVfMF8z_B644272054115ec951d48ed3b5db2ab0f.jpg?tag=1-1791543539-unknown-0-bgkb5j0mw8-bea3f0d4473e3a38&clientCacheKey=3xwvkt5bauj5kzm.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xwvkt5bauj5kzm",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "郑钦文重返中国一姐",
+        "description": "",
+        "author": "",
+        "hot": 13244000,
+        "photo_id": "3xxp7wvgb6k6ips",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/17/BMjAyNjEwMDkxNzE0MjFfNzE1Mzg5ODY5XzIxMTY1NTQyMjU4Ml8xXzM=_Be43b17bea6717928f73147391c6893e0.jpg?tag=1-1791543539-unknown-0-q05wvgafxw-3a2228c5b5f04f55&type=hot&clientCacheKey=3xxp7wvgb6k6ips.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xxp7wvgb6k6ips",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "飞天奖红毯",
+        "description": "",
+        "author": "",
+        "hot": 13243000,
+        "photo_id": "3xzjxwt4he2fqu2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/06/BMjAyNjEwMDkwNjE4MTVfMjE3NTIyOTA2N18yMTE2MDgxNjI5MThfMV8z_Bcbfafef662e49fcd7f49354fe871213c.jpg?tag=1-1791543539-unknown-0-gm0tnav6bo-a648d14053adb93a&clientCacheKey=3xzjxwt4he2fqu2.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xzjxwt4he2fqu2",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "成都一小区楼顶埋7岁男童系谣言",
+        "description": "",
+        "author": "",
+        "hot": 13243000,
+        "photo_id": "3xt7ptizrr9egkw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/09/BMjAyNjEwMDkwOTA0NTdfOTc0ODg5OTY4XzIxMTYxNTA1ODI3N18wXzM=_Bb075c24053932913bb6630f892f88f70.jpg?tag=1-1791543539-unknown-0-rms2utetfr-d7d6a652d09f3e41&type=hot&clientCacheKey=3xt7ptizrr9egkw.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xt7ptizrr9egkw",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "陈幸同4比2逆转桥本帆乃香",
+        "description": "",
+        "author": "",
+        "hot": 13243000,
+        "photo_id": "3x7dfuwp7ncgy4c",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/13/BMjAyNjEwMDkxMzQ2MjBfMTA5OTQyMzY3MF8yMTE2Mzc3ODQ2NDNfMl8z_Ba3287db5c7d48f521c303445839a7780.jpg?tag=1-1791543539-unknown-0-iihvgjeork-0a573132803ee1bf&type=hot&clientCacheKey=3x7dfuwp7ncgy4c.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x7dfuwp7ncgy4c",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "代收钱赚佣金成电诈帮凶",
+        "description": "",
+        "author": "",
+        "hot": 13243000,
+        "photo_id": "3xtbgnfmdedu2tk",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/17/BMjAyNjEwMDkxNzE1NTVfMjI1NjUyMzA1Nl8yMTE2NTU1NzA0MzJfMF8z_B1e39d0386d8bbad90af40000fffc07e7.jpg?tag=1-1791543539-unknown-0-9oe751lpwh-2f4bb10e0460a724&clientCacheKey=3xtbgnfmdedu2tk.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xtbgnfmdedu2tk",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "专家称今年暖冬基本确定",
+        "description": "",
+        "author": "",
+        "hot": 11435000,
+        "photo_id": "3x5yygtsx82hypc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/09/17/BMjAyNjEwMDkxNzQyMzdfMTY0MzExNTk3M18yMTE2NTgxMjE0NDhfMF8z_B1e20e512544acf0ba5f821a83432d4d2.jpg?tag=1-1791543539-unknown-0-gwmnvl6lh6-d020c233c0c1d403&clientCacheKey=3x5yygtsx82hypc.jpg&di=399a169c&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x5yygtsx82hypc",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
