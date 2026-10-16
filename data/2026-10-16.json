@@ -1,0 +1,448 @@
+{
+  "date": "2026-10-16",
+  "fetched_at": "2026-10-16T08:34:09.696830+00:00",
+  "platforms": {
+    "x": [],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "外卖小哥才明白这一幕的救赎感",
+        "description": "",
+        "author": "好柿花生🥜",
+        "likes": 8507,
+        "comments": 0,
+        "note_id": "6a8524530000000033009abf",
+        "url": "https://www.xiaohongshu.com/explore/6a8524530000000033009abf",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "合租室友请保持适当的距离好吗",
+        "description": "",
+        "author": "ICQ小可乐",
+        "likes": 7948,
+        "comments": 0,
+        "note_id": "6a6e9c560000000025007b15",
+        "url": "https://www.xiaohongshu.com/explore/6a6e9c560000000025007b15",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "先上手！橙色的苹果手机！",
+        "description": "",
+        "author": "国王就是我",
+        "likes": 7208,
+        "comments": 0,
+        "note_id": "6aa6e4af000000002800298a",
+        "url": "https://www.xiaohongshu.com/explore/6aa6e4af000000002800298a",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "闺蜜要在我的婚礼上订婚",
+        "description": "",
+        "author": "小言笔记",
+        "likes": 7064,
+        "comments": 0,
+        "note_id": "6aab965f000000000b00c506",
+        "url": "https://www.xiaohongshu.com/explore/6aab965f000000000b00c506",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "轻舟已过万重山 ",
+        "description": "",
+        "author": "哈哈🎀",
+        "likes": 6369,
+        "comments": 0,
+        "note_id": "6a8501690000000033019eac",
+        "url": "https://www.xiaohongshu.com/explore/6a8501690000000033019eac",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "真有孩子教师节送这么膈应的礼物吗",
+        "description": "",
+        "author": "吃颗糖🍬",
+        "likes": 6057,
+        "comments": 0,
+        "note_id": "6aa3759a0000000025035852",
+        "url": "https://www.xiaohongshu.com/explore/6aa3759a0000000025035852",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "年轻时的何老师vs现在的何老师",
+        "description": "",
+        "author": "小呆毛在画啦！",
+        "likes": 5030,
+        "comments": 0,
+        "note_id": "6aa4d5dd000000002a02f442",
+        "url": "https://www.xiaohongshu.com/explore/6aa4d5dd000000002a02f442",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "奉劝大家一句，别被杨幂给骗了，",
+        "description": "",
+        "author": "广州龙洞-昊艺-龙少",
+        "likes": 5001,
+        "comments": 0,
+        "note_id": "6ab4a886000000001a02342d",
+        "url": "https://www.xiaohongshu.com/explore/6ab4a886000000001a02342d",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "早春晴朗 ",
+        "description": "",
+        "author": "自由🆓",
+        "likes": 4847,
+        "comments": 0,
+        "note_id": "6aa2181b000000002601e4ef",
+        "url": "https://www.xiaohongshu.com/explore/6aa2181b000000002601e4ef",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "3岁了没掏过耳朵，忍不住了怎么办？",
+        "description": "",
+        "author": "不西",
+        "likes": 4021,
+        "comments": 0,
+        "note_id": "6a78066c00000000330314f2",
+        "url": "https://www.xiaohongshu.com/explore/6a78066c00000000330314f2",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "英雄联盟S16世界赛开赛",
+        "description": "",
+        "sentence_id": "2698246",
+        "hot": 12304499,
+        "event_time": 1792130752,
+        "url": "https://www.douyin.com/hot/2698246",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "淡人早秋穿搭",
+        "description": "",
+        "sentence_id": "2696842",
+        "hot": 12095967,
+        "event_time": 1792052736,
+        "url": "https://www.douyin.com/hot/2696842",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "中国方案赋能全球算力",
+        "description": "",
+        "sentence_id": "2697825",
+        "hot": 10252498,
+        "event_time": 1792116922,
+        "url": "https://www.douyin.com/hot/2697825",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "解放军南北六海域同时集训",
+        "description": "",
+        "sentence_id": "2697624",
+        "hot": 10198879,
+        "event_time": 1792107957,
+        "url": "https://www.douyin.com/hot/2697624",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "一块会飞上天的滑板简直太酷了",
+        "description": "",
+        "sentence_id": "2698011",
+        "hot": 8977234,
+        "event_time": 1792122155,
+        "url": "https://www.douyin.com/hot/2698011",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "胡塞袭击利雅得机场致17死333伤",
+        "description": "",
+        "sentence_id": "2697627",
+        "hot": 8733306,
+        "event_time": 1792108104,
+        "url": "https://www.douyin.com/hot/2697627",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "火箭116:89主场大胜雷霆",
+        "description": "",
+        "sentence_id": "2697933",
+        "hot": 7759392,
+        "event_time": 1792119944,
+        "url": "https://www.douyin.com/hot/2697933",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "今年第30号台风蔷琵已生成",
+        "description": "",
+        "sentence_id": "2697820",
+        "hot": 7727106,
+        "event_time": 1792116741,
+        "url": "https://www.douyin.com/hot/2697820",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "马杜罗夫妇纽约出庭否认新增指控",
+        "description": "",
+        "sentence_id": "2698006",
+        "hot": 7726814,
+        "event_time": 1792122025,
+        "url": "https://www.douyin.com/hot/2698006",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "CBA常规赛赛程发布",
+        "description": "",
+        "sentence_id": "2698163",
+        "hot": 7720433,
+        "event_time": 1792128102,
+        "url": "https://www.douyin.com/hot/2698163",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "中国人要把饭碗端在自己手里",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3x4partci3sixvq",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/15/22/BMjAyNjEwMTUyMjU3NTRfMjM2OTY5NzI3Nl8yMTIzMDYxOTA1ODJfMF8z_B683349289171116e6b2a2743d5dc8ac8.jpg?tag=1-1792139648-unknown-0-xr43ykzvbt-bf6ebd67fc1eee35&clientCacheKey=3x4partci3sixvq.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x4partci3sixvq",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "今天是世界粮食日",
+        "description": "",
+        "author": "",
+        "hot": 11751000,
+        "photo_id": "3xbz78vxixxje96",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/15/14/BMjAyNjEwMTUxNDUyMDNfOTE3NzkyMjA2XzIxMjI1ODU3MDc3MF8wXzM=_Be9fb64d27a03a8160ee525b33bde9b77.jpg?tag=1-1792139648-unknown-0-hyvou9nmaw-014713013c2936be&type=hot&clientCacheKey=3xbz78vxixxje96.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xbz78vxixxje96",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "暴雨暴雪大范围降温来袭",
+        "description": "",
+        "author": "",
+        "hot": 11746000,
+        "photo_id": "3x9wp67wpyq5tkc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/16/14/BMjAyNjEwMTYxNDM3NTVfOTE3NzkyMjA2XzIxMjM1OTIyMTE0NV8wXzM=_B6af95ac34883bd85a6ab00a641e38798.jpg?tag=1-1792139648-unknown-0-6mjwq5omdv-619875712c63c589&type=hot&clientCacheKey=3x9wp67wpyq5tkc.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x9wp67wpyq5tkc",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "广交会吸引境外采购商约34万名",
+        "description": "",
+        "author": "",
+        "hot": 11743000,
+        "photo_id": "3xpzgky7est2ua6",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/15/16/BMjAyNjEwMTUxNjA0NTNfMTA3MTg4NTYwN18yMTIyNjQ5NDIxMTBfMF8z_Be4035c842241d46ab75171e87e6e426a.jpg?tag=1-1792139648-unknown-0-1e3ludgpsv-f7985b2dd16ca0ab&clientCacheKey=3xpzgky7est2ua6.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xpzgky7est2ua6",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "日本误报9.9级地震",
+        "description": "",
+        "author": "",
+        "hot": 11742000,
+        "photo_id": "3xb6dhhrk76nkb4",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/16/15/BMjAyNjEwMTYxNTAyMDJfNjg3MDkwOTY0XzIxMjM2MTUyMTI1NF8wXzM=_B3983ebbd51f64d3be9d737477b906a86.jpg?tag=1-1792139648-unknown-0-sjnlyihwa7-a39cf278de019efd&clientCacheKey=3xb6dhhrk76nkb4.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xb6dhhrk76nkb4",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "胡塞袭利雅得机场致17死",
+        "description": "",
+        "author": "",
+        "hot": 11742000,
+        "photo_id": "3xs87uupr8gcmp6",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/16/09/BMjAyNjEwMTYwOTQ4MjJfMTM4MDIwMjAwNl8yMTIzMzMwNjQ4MTRfMF8z_Bb4a97106dc56e8147217e601e11f91f3.jpg?tag=1-1792139648-unknown-0-mzvamdlz4a-151cd640b0932083&clientCacheKey=3xs87uupr8gcmp6.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xs87uupr8gcmp6",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "美国肯德基将改用可口可乐",
+        "description": "",
+        "author": "",
+        "hot": 11741000,
+        "photo_id": "3xtynbheu6z6rdw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/16/09/BMjAyNjEwMTYwOTIzMTRfMTQwODI3ODk2OV8yMTIzMzExNzA2NTVfMF8z_B1a37b319e333cf8b35375aa2074d56da.jpg?tag=1-1792139648-unknown-0-gpcf4df7ei-24028b865f2a064a&clientCacheKey=3xtynbheu6z6rdw.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xtynbheu6z6rdw",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "英雄联盟S16世界赛开赛",
+        "description": "",
+        "author": "",
+        "hot": 11741000,
+        "photo_id": "3x3t2kdtn3znds4",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/15/18/BMjAyNjEwMTUxODQ3MjNfMTMwMzE1MDg5N18yMTIyODA2Njc2MDlfMV8z_B2d023570759621d7787d79df028cbf69.jpg?tag=1-1792139648-unknown-0-eeyq7r4vo2-f9a3320ba8438041&clientCacheKey=3x3t2kdtn3znds4.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x3t2kdtn3znds4",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "贵阳一在建高速垮塌致3死",
+        "description": "",
+        "author": "",
+        "hot": 11741000,
+        "photo_id": "3xviti6a4idufnk",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/16/15/BMjAyNjEwMTYxNTExNDFfMjQzNjc5ODEzMF8yMTIzNjI0ODU5ODJfMF8z_Bc016fe092500da599b73d29fbcdfbf3b.jpg?tag=1-1792139648-unknown-0-uksqoxzcyu-c994c8341733fe1d&clientCacheKey=3xviti6a4idufnk.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xviti6a4idufnk",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "特斯拉飞车有什么用",
+        "description": "",
+        "author": "",
+        "hot": 11540000,
+        "photo_id": "3xryrtbma9mdats",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/16/15/BMjAyNjEwMTYxNTM2NDhfMTQyMzk4ODM0Ml8yMTIzNjM1NDU4NjRfMl8z_B4942642a24d882af02a01867ae99e606.jpg?tag=1-1792139648-unknown-0-owwgya5tgk-e418eaa1a3ab6aeb&clientCacheKey=3xryrtbma9mdats.jpg&di=40ecc914&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xryrtbma9mdats",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
