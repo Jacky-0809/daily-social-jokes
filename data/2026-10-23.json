@@ -1,0 +1,539 @@
+{
+  "date": "2026-10-23",
+  "fetched_at": "2026-10-23T08:54:20.109982+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "松井秀喜",
+        "description": "",
+        "query": "%E6%9D%BE%E4%BA%95%E7%A7%80%E5%96%9C",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%E6%9D%BE%E4%BA%95%E7%A7%80%E5%96%9C",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#RoVTPOPTournament",
+        "description": "",
+        "query": "%23RoVTPOPTournament",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%23RoVTPOPTournament",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "#LoversAndGangsters",
+        "description": "",
+        "query": "%23LoversAndGangsters",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%23LoversAndGangsters",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "佐川急便",
+        "description": "",
+        "query": "%E4%BD%90%E5%B7%9D%E6%80%A5%E4%BE%BF",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%E4%BD%90%E5%B7%9D%E6%80%A5%E4%BE%BF",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#TSUBAKIxKengNamping",
+        "description": "",
+        "query": "%23TSUBAKIxKengNamping",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%23TSUBAKIxKengNamping",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "村上龍さん",
+        "description": "",
+        "query": "%E6%9D%91%E4%B8%8A%E9%BE%8D%E3%81%95%E3%82%93",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%E6%9D%91%E4%B8%8A%E9%BE%8D%E3%81%95%E3%82%93",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "松井監督",
+        "description": "",
+        "query": "%E6%9D%BE%E4%BA%95%E7%9B%A3%E7%9D%A3",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%E6%9D%BE%E4%BA%95%E7%9B%A3%E7%9D%A3",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "#LYKNReflexionConcertD1",
+        "description": "",
+        "query": "%23LYKNReflexionConcertD1",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%23LYKNReflexionConcertD1",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "カンブリア宮殿",
+        "description": "",
+        "query": "%E3%82%AB%E3%83%B3%E3%83%96%E3%83%AA%E3%82%A2%E5%AE%AE%E6%AE%BF",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%E3%82%AB%E3%83%B3%E3%83%96%E3%83%AA%E3%82%A2%E5%AE%AE%E6%AE%BF",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "#8per7PressTour2",
+        "description": "",
+        "query": "%238per7PressTour2",
+        "timestamp": "2026-10-23T08:04:16.442000+00:00",
+        "url": "https://twitter.com/search?q=%238per7PressTour2",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "据说当时烧了6台验钞机",
+        "description": "",
+        "author": "Maisara in pastels",
+        "likes": 8318,
+        "comments": 0,
+        "note_id": "6a96427a0000000028032764",
+        "url": "https://www.xiaohongshu.com/explore/6a96427a0000000028032764",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "沈腾已无咖可升 ",
+        "description": "",
+        "author": "布拉布拉",
+        "likes": 7812,
+        "comments": 0,
+        "note_id": "6a7e8300000000002c001f4d",
+        "url": "https://www.xiaohongshu.com/explore/6a7e8300000000002c001f4d",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "张家齐想学理财但是没钱理",
+        "description": "",
+        "author": "娱乐-station",
+        "likes": 7538,
+        "comments": 0,
+        "note_id": "6a9cee0a0000000027017522",
+        "url": "https://www.xiaohongshu.com/explore/6a9cee0a0000000027017522",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "拍个二百多集不行吗 ",
+        "description": "",
+        "author": "九亿大人",
+        "likes": 6075,
+        "comments": 0,
+        "note_id": "6a8670cd000000003b0150b6",
+        "url": "https://www.xiaohongshu.com/explore/6a8670cd000000003b0150b6",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "25农硕一觉醒来天塌了",
+        "description": "",
+        "author": "笑熬浆糊",
+        "likes": 5483,
+        "comments": 0,
+        "note_id": "6a9cc59a0000000011031ea6",
+        "url": "https://www.xiaohongshu.com/explore/6a9cc59a0000000011031ea6",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "胖东来年末离场，杀鸡取卵的房东们",
+        "description": "",
+        "author": "小北侃聊",
+        "likes": 5378,
+        "comments": 0,
+        "note_id": "6a7a7de200000000220117b1",
+        "url": "https://www.xiaohongshu.com/explore/6a7a7de200000000220117b1",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "土豆芽不是俊生放的 ",
+        "description": "",
+        "author": "去您孖德吧",
+        "likes": 5084,
+        "comments": 0,
+        "note_id": "6a7fd91000000000220119f7",
+        "url": "https://www.xiaohongshu.com/explore/6a7fd91000000000220119f7",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "该吃的多吃不该吃的尽量不吃",
+        "description": "",
+        "author": "粘豆包儿",
+        "likes": 4749,
+        "comments": 0,
+        "note_id": "6ab729c8000000001a027967",
+        "url": "https://www.xiaohongshu.com/explore/6ab729c8000000001a027967",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "tim吐槽iPhoneDuo录视频发热严重 发烫",
+        "description": "",
+        "author": "后浪视频",
+        "likes": 4672,
+        "comments": 0,
+        "note_id": "6aab3f730000000027009a24",
+        "url": "https://www.xiaohongshu.com/explore/6aab3f730000000027009a24",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "她因天生白发而被送人，却不想是个天才少女",
+        "description": "",
+        "author": "芭比",
+        "likes": 4479,
+        "comments": 0,
+        "note_id": "6a9c5ef10000000028030deb",
+        "url": "https://www.xiaohongshu.com/explore/6a9c5ef10000000028030deb",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "西藏7.0级地震已致16死76伤",
+        "description": "",
+        "sentence_id": "2709032",
+        "hot": 11988453,
+        "event_time": 1792708979,
+        "url": "https://www.douyin.com/hot/2709032",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "李昌钰在扬州安葬",
+        "description": "",
+        "sentence_id": "2709296",
+        "hot": 11726265,
+        "event_time": 1792723982,
+        "url": "https://www.douyin.com/hot/2709296",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "记者直击西藏地震灾区救援现场",
+        "description": "",
+        "sentence_id": "2709856",
+        "hot": 11264487,
+        "event_time": 1792741251,
+        "url": "https://www.douyin.com/hot/2709856",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "秦岭半山红叶半山雪",
+        "description": "",
+        "sentence_id": "2709599",
+        "hot": 10905101,
+        "event_time": 1792734849,
+        "url": "https://www.douyin.com/hot/2709599",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "台风蔷琵逼近华东沿海",
+        "description": "",
+        "sentence_id": "2709583",
+        "hot": 10283508,
+        "event_time": 1792734363,
+        "url": "https://www.douyin.com/hot/2709583",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "秋日收藏小赛",
+        "description": "",
+        "sentence_id": "2709026",
+        "hot": 10231306,
+        "event_time": 1792685764,
+        "url": "https://www.douyin.com/hot/2709026",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "今日霜降",
+        "description": "",
+        "sentence_id": "2709134",
+        "hot": 9112874,
+        "event_time": 1792718274,
+        "url": "https://www.douyin.com/hot/2709134",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "76人114:106击败骑士",
+        "description": "",
+        "sentence_id": "2709231",
+        "hot": 9048873,
+        "event_time": 1792722004,
+        "url": "https://www.douyin.com/hot/2709231",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "台风蔷琵实时路径",
+        "description": "",
+        "sentence_id": "2708373",
+        "hot": 8972527,
+        "event_time": 1792658955,
+        "url": "https://www.douyin.com/hot/2708373",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "抖音博主教你vibe知识大赏",
+        "description": "",
+        "sentence_id": "2707951",
+        "hot": 8919820,
+        "event_time": 1792649735,
+        "url": "https://www.douyin.com/hot/2707951",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "在新的长征路上奋力创造新的辉煌",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xezrn55bh54ntu",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/22/19/BMjAyNjEwMjIxOTMyMDJfMTA3MTg4NTYwN18yMTMwNzQyNTA3NDlfMF8z_B189caa130f149f52cfc2c2f60593d634.jpg?tag=1-1792745659-unknown-0-xazjktinvz-139f27195b504659&clientCacheKey=3xezrn55bh54ntu.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xezrn55bh54ntu",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "西藏7.0级地震已致16死76伤",
+        "description": "",
+        "author": "",
+        "hot": 11468000,
+        "photo_id": "3x2st8a5m3hhuia",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/15/BMjAyNjEwMjMxNTA5MzdfMTA3MTg4NTYwN18yMTMxNTYxMzY5MDFfMF8z_B91e7be776cebe334c4e26226cafc54c9.jpg?tag=1-1792745659-unknown-0-42ofht0ayx-42c9c2f54b238b49&type=hot&clientCacheKey=3x2st8a5m3hhuia.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x2st8a5m3hhuia",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "西藏发布会现场为遇难者默哀",
+        "description": "",
+        "author": "",
+        "hot": 11463000,
+        "photo_id": "3xammqhdx4d3emw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/15/BMjAyNjEwMjMxNTIyMzJfOTE3NzkyMjA2XzIxMzE1NzQ1Nzg1MF8wXzM=_Bbab74d72741606b9db1f5c21912cc45c.jpg?tag=1-1792745659-unknown-0-5diw172y72-3adf219982f6fef6&type=hot&clientCacheKey=3xammqhdx4d3emw.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xammqhdx4d3emw",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "救灾物资陆续抵达西藏灾区",
+        "description": "",
+        "author": "",
+        "hot": 11461000,
+        "photo_id": "3xhvyy3fz53cda4",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/09/BMjAyNjEwMjMwOTM4NDFfOTE3NzkyMjA2XzIxMzEyNTQ3MzYyNl8wXzM=_B335a6a644db040538a45d60862725553.jpg?tag=1-1792745659-unknown-0-0gfsb22tss-9029f91ce4a1b164&type=hot&clientCacheKey=3xhvyy3fz53cda4.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xhvyy3fz53cda4",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "今日霜降",
+        "description": "",
+        "author": "",
+        "hot": 11459000,
+        "photo_id": "3xfcjxike9r2htc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/22/09/BMjAyNjEwMjIwOTUxNTRfMTMxMjExOTkyNV8yMTMwMTg1MTAwMDRfMF8z_B645b2806b2b7c913125039c9bd931746.jpg?tag=1-1792745659-unknown-0-ktlgvemuzy-d346bb1ade983249&clientCacheKey=3xfcjxike9r2htc.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xfcjxike9r2htc",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "黄子韬公司被强制执行2040万",
+        "description": "",
+        "author": "",
+        "hot": 11459000,
+        "photo_id": "3x4vpyza2ws5pb9",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/12/BMjAyNjEwMjMxMjEzNTlfMTQzMzcwNjE0M18yMTMxMzk3NTAwMzdfMF8z_B5410c114d41342f979f5dcf802735e85.jpg?tag=1-1792745659-unknown-0-ec3lwwoull-ae87e009f890cb00&type=hot&clientCacheKey=3x4vpyza2ws5pb9.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x4vpyza2ws5pb9",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "李昌钰在扬州安葬",
+        "description": "",
+        "author": "",
+        "hot": 11459000,
+        "photo_id": "3x6hu7ke6vns8vc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/15/BMjAyNjEwMjMxNTA1NTlfMjM2OTY5NzI3Nl8yMTMxNTU3NDk2NzVfMF8z_Bf3a653e82a8e9aff4cf488f248fe282d.jpg?tag=1-1792745659-unknown-0-dxl0lx1mtv-816948ed55b33342&type=hot&clientCacheKey=3x6hu7ke6vns8vc.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x6hu7ke6vns8vc",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "披旭日旗中国留学生已被开除",
+        "description": "",
+        "author": "",
+        "hot": 11458000,
+        "photo_id": "3xggewvc2gedp8a",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/21/11/BMjAyNjEwMjExMTA2NTNfNTE5MDEwNjMyOF8yMTI5MTk3MDMwMTBfMl8z_B821c04408bd216df7b2dd9b1c4c6fb2d.jpg?tag=1-1792745659-unknown-0-b7baczogzr-71ae09442f73cefc&type=hot&clientCacheKey=3xggewvc2gedp8a.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xggewvc2gedp8a",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "香港扫黄24名内地女子被拘",
+        "description": "",
+        "author": "",
+        "hot": 11035000,
+        "photo_id": "3xzk5wamq497m5q",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/10/BMjAyNjEwMjMxMDI3MjFfOTc5MTAyNTEyXzIxMzEyOTgyNTEzOF8wXzM=_B410107c23d0d31dc922082a9a9c09af7.jpg?tag=1-1792745659-unknown-0-ra3eoubfvq-3c16b18ee98e3280&type=hot&clientCacheKey=3xzk5wamq497m5q.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xzk5wamq497m5q",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "联合国警告全球进入冲突共振时代",
+        "description": "",
+        "author": "",
+        "hot": 10591000,
+        "photo_id": "3xixhed5i9wjt34",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/23/15/BMjAyNjEwMjMxNTAwNDVfMTgwNDAzMzUwN18yMTMxNTUyMTA2MDFfMF8z_Beb8ebecc661d8487edef89aba2a48804.jpg?tag=1-1792745659-unknown-0-lvfu72zcz5-9153c48b27c18f40&clientCacheKey=3xixhed5i9wjt34.jpg&di=acb8ae7b&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xixhed5i9wjt34",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
