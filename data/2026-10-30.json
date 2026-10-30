@@ -1,0 +1,428 @@
+{
+  "date": "2026-10-30",
+  "fetched_at": "2026-10-30T10:32:40.148876+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "ハロウィン",
+        "description": "",
+        "query": "%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%E3%83%8F%E3%83%AD%E3%82%A6%E3%82%A3%E3%83%B3",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#OrmSMILEwithB03X",
+        "description": "",
+        "query": "%23OrmSMILEwithB03X",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%23OrmSMILEwithB03X",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "ORM BA LEAPMOTOR B03X",
+        "description": "",
+        "query": "ORM%20BA%20LEAPMOTOR%20B03X",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=ORM%20BA%20LEAPMOTOR%20B03X",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#毎週金曜はおつピザ",
+        "description": "",
+        "query": "%23%E6%AF%8E%E9%80%B1%E9%87%91%E6%9B%9C%E3%81%AF%E3%81%8A%E3%81%A4%E3%83%94%E3%82%B6",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%23%E6%AF%8E%E9%80%B1%E9%87%91%E6%9B%9C%E3%81%AF%E3%81%8A%E3%81%A4%E3%83%94%E3%82%B6",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#スパリク_ハローコンダクターCP",
+        "description": "",
+        "query": "%23%E3%82%B9%E3%83%91%E3%83%AA%E3%82%AF_%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%80%E3%82%AF%E3%82%BF%E3%83%BCCP",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%23%E3%82%B9%E3%83%91%E3%83%AA%E3%82%AF_%E3%83%8F%E3%83%AD%E3%83%BC%E3%82%B3%E3%83%B3%E3%83%80%E3%82%AF%E3%82%BF%E3%83%BCCP",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "Binance",
+        "description": "",
+        "query": "Binance",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=Binance",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "#TDTAnkaraZirvesi2026",
+        "description": "",
+        "query": "%23TDTAnkaraZirvesi2026",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%23TDTAnkaraZirvesi2026",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "#LoversAndGangstersEP1",
+        "description": "",
+        "query": "%23LoversAndGangstersEP1",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%23LoversAndGangstersEP1",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "最新情報",
+        "description": "",
+        "query": "%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=%E6%9C%80%E6%96%B0%E6%83%85%E5%A0%B1",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "FORCEBOOK LAG EP1",
+        "description": "",
+        "query": "FORCEBOOK%20LAG%20EP1",
+        "timestamp": "2026-10-30T09:45:59.679000+00:00",
+        "url": "https://twitter.com/search?q=FORCEBOOK%20LAG%20EP1",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "在韩中国留学生遇害案嫌疑人身份信息公开",
+        "description": "",
+        "author": "观察者网",
+        "likes": 9413,
+        "comments": 0,
+        "note_id": "6a96225f000000002b0100fd",
+        "url": "https://www.xiaohongshu.com/explore/6a96225f000000002b0100fd",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "在欧洲办公室吃这个好怕被误会",
+        "description": "",
+        "author": "塞锅巴",
+        "likes": 8051,
+        "comments": 0,
+        "note_id": "6ab6cf53000000000100b062",
+        "url": "https://www.xiaohongshu.com/explore/6ab6cf53000000000100b062",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "好奇桃子是怎么放进去的",
+        "description": "",
+        "author": "Azura130",
+        "likes": 6516,
+        "comments": 0,
+        "note_id": "6aadeeb30000000029010099",
+        "url": "https://www.xiaohongshu.com/explore/6aadeeb30000000029010099",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "杜鹃花开箱｜iPhone体验会",
+        "description": "",
+        "author": "杜海涛",
+        "likes": 5512,
+        "comments": 0,
+        "note_id": "6aae0f1c000000000b00dbff",
+        "url": "https://www.xiaohongshu.com/explore/6aae0f1c000000000b00dbff",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "台风“美莎克”致广西159人遇难、10人失联",
+        "description": "",
+        "author": "橙柿互动",
+        "likes": 4767,
+        "comments": 0,
+        "note_id": "6a87d9f7000000001f01d4ef",
+        "url": "https://www.xiaohongshu.com/explore/6a87d9f7000000001f01d4ef",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "你庆幸自己做过什么事？",
+        "description": "",
+        "author": "暴躁小薯条",
+        "likes": 3907,
+        "comments": 0,
+        "note_id": "6aa8a81e00000000260158c8",
+        "url": "https://www.xiaohongshu.com/explore/6aa8a81e00000000260158c8",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "惊闻特斯拉噩耗 ",
+        "description": "",
+        "author": "阿yee📸",
+        "likes": 3122,
+        "comments": 0,
+        "note_id": "6a9e1a630000000026016d39",
+        "url": "https://www.xiaohongshu.com/explore/6a9e1a630000000026016d39",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "用水泥管的当车库，太有头脑了",
+        "description": "",
+        "author": "龙龙哥搞笑配音",
+        "likes": 2826,
+        "comments": 0,
+        "note_id": "6ab1fba7000000003100d61d",
+        "url": "https://www.xiaohongshu.com/explore/6ab1fba7000000003100d61d",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "谁发现这个名场面！ ",
+        "description": "",
+        "author": "爱情至上主义者",
+        "likes": 2730,
+        "comments": 0,
+        "note_id": "6a9b764800000000140123a7",
+        "url": "https://www.xiaohongshu.com/explore/6a9b764800000000140123a7",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "14年光阴变换 ",
+        "description": "",
+        "author": "夏天的旅行",
+        "likes": 2693,
+        "comments": 0,
+        "note_id": "6a8680380000000025007ed5",
+        "url": "https://www.xiaohongshu.com/explore/6a8680380000000025007ed5",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "中共中央举行新闻发布会",
+        "description": "",
+        "sentence_id": "2719825",
+        "hot": 12107810,
+        "event_time": 1793268093,
+        "url": "https://www.douyin.com/hot/2719825",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "比冬天先来的是一顿热火锅",
+        "description": "",
+        "sentence_id": "2720702",
+        "hot": 11202602,
+        "event_time": 1793332984,
+        "url": "https://www.douyin.com/hot/2720702",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "党的二十届五中全会公报一图速览",
+        "description": "",
+        "sentence_id": "2721274",
+        "hot": 11084352,
+        "event_time": 1793347521,
+        "url": "https://www.douyin.com/hot/2721274",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "解放军霸气喊话菲律宾军机",
+        "description": "",
+        "sentence_id": "2721276",
+        "hot": 11075468,
+        "event_time": 1793347591,
+        "url": "https://www.douyin.com/hot/2721276",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "跨越山海的长征精神回响",
+        "description": "",
+        "sentence_id": "2721162",
+        "hot": 10449449,
+        "event_time": 1793345149,
+        "url": "https://www.douyin.com/hot/2721162",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "中国U17女足首进世界杯8强",
+        "description": "",
+        "sentence_id": "2720335",
+        "hot": 10284475,
+        "event_time": 1793315077,
+        "url": "https://www.douyin.com/hot/2720335",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "10架美军机飞抵以色列空军基地",
+        "description": "",
+        "sentence_id": "2720350",
+        "hot": 9186329,
+        "event_time": 1793316016,
+        "url": "https://www.douyin.com/hot/2720350",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "国防部称遵义舰从容应对侵权挑衅",
+        "description": "",
+        "sentence_id": "2720500",
+        "hot": 9173698,
+        "event_time": 1793326417,
+        "url": "https://www.douyin.com/hot/2720500",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "我国两栖攻击舰取得新突破",
+        "description": "",
+        "sentence_id": "2721373",
+        "hot": 9150671,
+        "event_time": 1793350774,
+        "url": "https://www.douyin.com/hot/2721373",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "南部战区海空兵力黄岩岛战备警巡",
+        "description": "",
+        "sentence_id": "2721201",
+        "hot": 9113099,
+        "event_time": 1793346021,
+        "url": "https://www.douyin.com/hot/2721201",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": []
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
