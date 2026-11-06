@@ -1,0 +1,539 @@
+{
+  "date": "2026-11-06",
+  "fetched_at": "2026-11-06T11:40:12.265015+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "貴方のサークル",
+        "description": "",
+        "query": "%E8%B2%B4%E6%96%B9%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%E8%B2%B4%E6%96%B9%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#C109",
+        "description": "",
+        "query": "%23C109",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%23C109",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "#LEExPerthSanta",
+        "description": "",
+        "query": "%23LEExPerthSanta",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%23LEExPerthSanta",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "PERTHSANTA HOUSE OF LEE",
+        "description": "",
+        "query": "PERTHSANTA%20HOUSE%20OF%20LEE",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=PERTHSANTA%20HOUSE%20OF%20LEE",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#CentralWestgatexKengNamping",
+        "description": "",
+        "query": "%23CentralWestgatexKengNamping",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%23CentralWestgatexKengNamping",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "あなたのサークル",
+        "description": "",
+        "query": "%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%E3%81%82%E3%81%AA%E3%81%9F%E3%81%AE%E3%82%B5%E3%83%BC%E3%82%AF%E3%83%AB",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "#LoversAndGangstersEP2",
+        "description": "",
+        "query": "%23LoversAndGangstersEP2",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%23LoversAndGangstersEP2",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "#AlışverişeTerörSuçlaması",
+        "description": "",
+        "query": "%23Al%C4%B1%C5%9Fveri%C5%9FeTer%C3%B6rSu%C3%A7lamas%C4%B1",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%23Al%C4%B1%C5%9Fveri%C5%9FeTer%C3%B6rSu%C3%A7lamas%C4%B1",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "FORCEBOOK LAG EP2",
+        "description": "",
+        "query": "FORCEBOOK%20LAG%20EP2",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=FORCEBOOK%20LAG%20EP2",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "西1ホール",
+        "description": "",
+        "query": "%E8%A5%BF1%E3%83%9B%E3%83%BC%E3%83%AB",
+        "timestamp": "2026-11-06T11:00:56.904000+00:00",
+        "url": "https://twitter.com/search?q=%E8%A5%BF1%E3%83%9B%E3%83%BC%E3%83%AB",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "Illit进行曲 ",
+        "description": "",
+        "author": "jen",
+        "likes": 3408,
+        "comments": 0,
+        "note_id": "698b43e2000000001b01ed60",
+        "url": "https://www.xiaohongshu.com/explore/698b43e2000000001b01ed60",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "💖𝒔𝒉𝒂𝒓𝒆：）在剧组超好用的小东西🥰📦",
+        "description": "",
+        "author": "胡连馨儿",
+        "likes": 2500,
+        "comments": 0,
+        "note_id": "69d4de79000000002202addc",
+        "url": "https://www.xiaohongshu.com/explore/69d4de79000000002202addc",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "当火锅里的菜还没熟时",
+        "description": "",
+        "author": "流星XN",
+        "likes": 2278,
+        "comments": 0,
+        "note_id": "698eea04000000002801f18e",
+        "url": "https://www.xiaohongshu.com/explore/698eea04000000002801f18e",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "7个少而精！真好货必囤版～",
+        "description": "",
+        "author": "橘子七水",
+        "likes": 1777,
+        "comments": 0,
+        "note_id": "68f6015b00000000030344de",
+        "url": "https://www.xiaohongshu.com/explore/68f6015b00000000030344de",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "为啥摄影师能记住那么多摆姿？",
+        "description": "",
+        "author": "老崔的镜头世界",
+        "likes": 1746,
+        "comments": 0,
+        "note_id": "69ec9bda000000001b0224ec",
+        "url": "https://www.xiaohongshu.com/explore/69ec9bda000000001b0224ec",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "对这个金发女神我完全没有抵抗力",
+        "description": "",
+        "author": "西岛可可",
+        "likes": 1173,
+        "comments": 0,
+        "note_id": "692b1081000000001b024f76",
+        "url": "https://www.xiaohongshu.com/explore/692b1081000000001b024f76",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "真爱发生在关系结束之后",
+        "description": "",
+        "author": "黄微微",
+        "likes": 975,
+        "comments": 0,
+        "note_id": "6a798c630000000032022996",
+        "url": "https://www.xiaohongshu.com/explore/6a798c630000000032022996",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "《Rises the moon》打卡",
+        "description": "",
+        "author": "sky燧千",
+        "likes": 713,
+        "comments": 0,
+        "note_id": "6a2f7848000000001c02776a",
+        "url": "https://www.xiaohongshu.com/explore/6a2f7848000000001c02776a",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "又又一次暹罗美甲 ",
+        "description": "",
+        "author": "blahh",
+        "likes": 690,
+        "comments": 0,
+        "note_id": "6a1453850000000008033946",
+        "url": "https://www.xiaohongshu.com/explore/6a1453850000000008033946",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "Dynamite一响起全场直接沸腾",
+        "description": "",
+        "author": "全球音乐大赏",
+        "likes": 640,
+        "comments": 0,
+        "note_id": "6a72f5200000000029032645",
+        "url": "https://www.xiaohongshu.com/explore/6a72f5200000000029032645",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "立冬和饺子最配了",
+        "description": "",
+        "sentence_id": "2731371",
+        "hot": 11341729,
+        "event_time": 1793875981,
+        "url": "https://www.douyin.com/hot/2731371",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "又到穿费尔岛的季节了",
+        "description": "",
+        "sentence_id": "2732464",
+        "hot": 11273154,
+        "event_time": 1793946304,
+        "url": "https://www.douyin.com/hot/2732464",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "我国秋粮丰收成定局",
+        "description": "",
+        "sentence_id": "2732678",
+        "hot": 11264537,
+        "event_time": 1793951623,
+        "url": "https://www.douyin.com/hot/2732678",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "降温了羽绒服先穿为敬",
+        "description": "",
+        "sentence_id": "2730666",
+        "hot": 11109584,
+        "event_time": 1793861533,
+        "url": "https://www.douyin.com/hot/2730666",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "你怎么舍得让有趣的知识流走",
+        "description": "",
+        "sentence_id": "2730337",
+        "hot": 10547432,
+        "event_time": 1793852057,
+        "url": "https://www.douyin.com/hot/2730337",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "普京签署法令接管日企在俄资产",
+        "description": "",
+        "sentence_id": "2731695",
+        "hot": 10543470,
+        "event_time": 1793887175,
+        "url": "https://www.douyin.com/hot/2731695",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "路漫漫终有归处",
+        "description": "",
+        "sentence_id": "2731078",
+        "hot": 9429507,
+        "event_time": 1793869387,
+        "url": "https://www.douyin.com/hot/2731078",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "陕西商南命案嫌犯已死亡",
+        "description": "",
+        "sentence_id": "2732420",
+        "hot": 9355179,
+        "event_time": 1793945852,
+        "url": "https://www.douyin.com/hot/2732420",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "黄金后市怎么走",
+        "description": "",
+        "sentence_id": "2731624",
+        "hot": 9348810,
+        "event_time": 1793884164,
+        "url": "https://www.douyin.com/hot/2731624",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "范争一无缘国锦赛决赛",
+        "description": "",
+        "sentence_id": "2731788",
+        "hot": 9303217,
+        "event_time": 1793892731,
+        "url": "https://www.douyin.com/hot/2731788",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "一起感受进博“磁吸力”",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xx297z7w4fhrfs",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/06/10/BMjAyNjExMDYxMDA1NTlfODIxOTk0MDcwXzIxNDcxOTY0NjY5NV8wXzM=_Bd55309c990f22a5a0acb768d3adbfaec.jpg?tag=1-1793965211-unknown-0-vgivkn4zoz-bea80c6b36c8ad63&type=hot&clientCacheKey=3xx297z7w4fhrfs.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xx297z7w4fhrfs",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "立冬雪 要来了",
+        "description": "",
+        "author": "",
+        "hot": 12287000,
+        "photo_id": "3xrdzwuuhtcikja",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/05/12/BMjAyNjExMDUxMjA1MDdfOTE3NTQ3NDE0XzIxNDYyNjU5OTk0MV8wXzM=_B5e626f391066c366a2ea2a5b401d1abb.jpg?tag=1-1793965211-unknown-0-qyn0jwpidz-79309f6dcdb64309&type=hot&clientCacheKey=3xrdzwuuhtcikja.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xrdzwuuhtcikja",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "村民称商南命案嫌犯系自缢身亡",
+        "description": "",
+        "author": "",
+        "hot": 12282000,
+        "photo_id": "3xwdshqeuee8aww",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/06/14/BMjAyNjExMDYxNDU2MzlfNDQzNjgxNzYyMV8yMTQ3NDc1MTcxMzNfMF8z_Bfa9ce4a5882ae7bd21fe3f887de6fbac.jpg?tag=1-1793965211-unknown-0-tuusawkk7v-8cbe1c2a31eda3c8&type=hot&clientCacheKey=3xwdshqeuee8aww.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xwdshqeuee8aww",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "我国自主研发四代核电技术",
+        "description": "",
+        "author": "",
+        "hot": 12279000,
+        "photo_id": "3xicjvju8dssrnq",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/06/11/BMjAyNjExMDYxMTMyMDRfODIxOTk0MDcwXzIxNDcyNzc1OTc1OV8wXzM=_B8de803d0205bc07c0391aaa812467aa0.jpg?tag=1-1793965211-unknown-0-ed3txvttat-354267168ef3816a&type=hot&clientCacheKey=3xicjvju8dssrnq.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xicjvju8dssrnq",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "沉浸式体验东北猫冬生活",
+        "description": "",
+        "author": "",
+        "hot": 12277000,
+        "photo_id": "3x8cgvgc4i5hsdy",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/29/20/BMjAyNjEwMjkyMDA3MzZfMTAzMjUwMTY0OV8yMTM4NzUxMTc1MTRfMV8z_Bbf2267b1600c97c2d888dcdfc66f5eb3.jpg?tag=1-1793965211-unknown-0-trig41xqtv-b944f4b11310c169&type=hot&clientCacheKey=3x8cgvgc4i5hsdy.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x8cgvgc4i5hsdy",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "打开和平精英到新疆了",
+        "description": "",
+        "author": "",
+        "hot": 11325000,
+        "photo_id": "3xj5y8uny9y3u8c",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/10/21/14/BMjAyNjEwMjExNDI1MTFfMTM3ODAyNTU2OF8yMTI5MzgwNjUyNDZfMF8z_Bcacad6606ab412b1bcd814b3ab5c926a.jpg?tag=1-1793965211-unknown-0-c4prfk5nhg-ec66983baa74588c&clientCacheKey=3xj5y8uny9y3u8c.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xj5y8uny9y3u8c",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "C罗快手评论区全是致敬",
+        "description": "",
+        "author": "",
+        "hot": 11099000,
+        "photo_id": "3x43fhyy577ydxq",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/05/22/BMjAyNjExMDUyMjExMzdfMjgxODgzOTg0Nl8yMTQ2ODc2NTI0ODNfMF8z_B50c0a9e82db2750ec8c87f7f7a9aaf64.jpg?tag=1-1793965211-unknown-0-gi7po36wuf-ca9711e80cae371e&type=hot&clientCacheKey=3x43fhyy577ydxq.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x43fhyy577ydxq",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "王楚钦0比3温瑞博",
+        "description": "",
+        "author": "",
+        "hot": 10671000,
+        "photo_id": "3xqpvczw2swvbxu",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/06/09/BMjAyNjExMDYwOTE0NTVfMzY4Mzc1MDc0Ml8yMTQ3MTU1NjU2MThfMF8z_B4806b07945049ab57571449e488f4bd0.jpg?tag=1-1793965211-unknown-0-3bywhoewfy-e4253824fede6435&type=hot&clientCacheKey=3xqpvczw2swvbxu.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xqpvczw2swvbxu",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "黑龙江82岁单身汉兄弟情",
+        "description": "",
+        "author": "",
+        "hot": 10457000,
+        "photo_id": "3x4mcanrv7pbvu9",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/05/15/BMjAyNjExMDUxNTA0NDJfMjg2MzY4NjhfMjE0NjQyODExNTE3XzFfMw==_Bd90985cff3e5d9ee2ddae4999da1c7f2.jpg?tag=1-1793965211-unknown-0-anfwlubvfx-d023c9f811f9372b&type=hot&clientCacheKey=3x4mcanrv7pbvu9.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x4mcanrv7pbvu9",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "烽火岁月到盛世中华信仰从未改变",
+        "description": "",
+        "author": "",
+        "hot": 10244000,
+        "photo_id": "3xyx37j5ccupxhy",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/02/19/BMjAyNjExMDIxOTM1MjhfOTc5NjI2NTM4XzIxNDM1OTMzMzkzNV8wXzM=_B8da823c45464de46cb6c8cba3bfb7bab.jpg?tag=1-1793965211-unknown-0-vbksnk7yk1-6616327495c79b18&clientCacheKey=3xyx37j5ccupxhy.jpg&di=143b0b46&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xyx37j5ccupxhy",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
