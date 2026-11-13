@@ -1,0 +1,539 @@
+{
+  "date": "2026-11-13",
+  "fetched_at": "2026-11-13T11:40:38.186686+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#それスノ",
+        "description": "",
+        "query": "%23%E3%81%9D%E3%82%8C%E3%82%B9%E3%83%8E",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%23%E3%81%9D%E3%82%8C%E3%82%B9%E3%83%8E",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#学マス14人目のアイドル",
+        "description": "",
+        "query": "%23%E5%AD%A6%E3%83%9E%E3%82%B914%E4%BA%BA%E7%9B%AE%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%23%E5%AD%A6%E3%83%9E%E3%82%B914%E4%BA%BA%E7%9B%AE%E3%81%AE%E3%82%A2%E3%82%A4%E3%83%89%E3%83%AB",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "作法クイズ",
+        "description": "",
+        "query": "%E4%BD%9C%E6%B3%95%E3%82%AF%E3%82%A4%E3%82%BA",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%E4%BD%9C%E6%B3%95%E3%82%AF%E3%82%A4%E3%82%BA",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "🧹香名江",
+        "description": "",
+        "query": "%F0%9F%A7%B9%E9%A6%99%E5%90%8D%E6%B1%9F",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%F0%9F%A7%B9%E9%A6%99%E5%90%8D%E6%B1%9F",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "Outlook",
+        "description": "",
+        "query": "Outlook",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=Outlook",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "Microsoft",
+        "description": "",
+        "query": "Microsoft",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=Microsoft",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "画像20枚",
+        "description": "",
+        "query": "%E7%94%BB%E5%83%8F20%E6%9E%9A",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%E7%94%BB%E5%83%8F20%E6%9E%9A",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "#NamtanFilmFanconD1",
+        "description": "",
+        "query": "%23NamtanFilmFanconD1",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%23NamtanFilmFanconD1",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "#GoldenZebraJeansXPNB",
+        "description": "",
+        "query": "%23GoldenZebraJeansXPNB",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=%23GoldenZebraJeansXPNB",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "NAMTANFILM GLAM NIGHT",
+        "description": "",
+        "query": "NAMTANFILM%20GLAM%20NIGHT",
+        "timestamp": "2026-11-13T11:00:21.637000+00:00",
+        "url": "https://twitter.com/search?q=NAMTANFILM%20GLAM%20NIGHT",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "覆盆子抹茶双拼千层～",
+        "description": "",
+        "author": "卤辣辣",
+        "likes": 3753,
+        "comments": 0,
+        "note_id": "697b3343000000002800a1ed",
+        "url": "https://www.xiaohongshu.com/explore/697b3343000000002800a1ed",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "我给美甲师的，和美甲师给我的",
+        "description": "",
+        "author": "大辽郡主",
+        "likes": 1981,
+        "comments": 0,
+        "note_id": "6a37dbe9000000001702b47f",
+        "url": "https://www.xiaohongshu.com/explore/6a37dbe9000000001702b47f",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "🇲🇾Sunway Pyramid有新东西玩啦！",
+        "description": "",
+        "author": "翻转大马吃喝玩乐",
+        "likes": 1634,
+        "comments": 0,
+        "note_id": "68adb379000000001d029da5",
+        "url": "https://www.xiaohongshu.com/explore/68adb379000000001d029da5",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "⚫️⚪️🟤配色｜绝美氛围感餐厅",
+        "description": "",
+        "author": "大宝子",
+        "likes": 1579,
+        "comments": 0,
+        "note_id": "69df9a17000000001d01a79e",
+        "url": "https://www.xiaohongshu.com/explore/69df9a17000000001d01a79e",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "目前为止用过平凹陷最牛的东西",
+        "description": "",
+        "author": "26岁冷艳美女",
+        "likes": 1175,
+        "comments": 0,
+        "note_id": "6a61d1be000000001303c3ea",
+        "url": "https://www.xiaohongshu.com/explore/6a61d1be000000001303c3ea",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "偶遇Jolin！妈咪兰蔻大屏美到挪不开眼🤩",
+        "description": "",
+        "author": "西禅寺一休姐",
+        "likes": 1013,
+        "comments": 0,
+        "note_id": "6a47484b000000001702f7c0",
+        "url": "https://www.xiaohongshu.com/explore/6a47484b000000001702f7c0",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "昆明只带我好朋友去的6家！！！（纯分享版",
+        "description": "",
+        "author": "吃不饱的气泡",
+        "likes": 820,
+        "comments": 0,
+        "note_id": "68fa1eb4000000000401597b",
+        "url": "https://www.xiaohongshu.com/explore/68fa1eb4000000000401597b",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "我还能看到崔然竣留这个发型吗",
+        "description": "",
+        "author": "小狗",
+        "likes": 615,
+        "comments": 0,
+        "note_id": "69a23b78000000001503b08f",
+        "url": "https://www.xiaohongshu.com/explore/69a23b78000000001503b08f",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "简单好看发型 手残党也能学会的发型 后脑勺饱满圆润 丸子头教程 发型决定气质 盘",
+        "description": "",
+        "author": "十三月",
+        "likes": 559,
+        "comments": 0,
+        "note_id": "6934d168000000001e037775",
+        "url": "https://www.xiaohongshu.com/explore/6934d168000000001e037775",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "华语乐坛五行能量图鉴，找到你的本命歌手",
+        "description": "",
+        "author": "冰冰乐坛图鉴",
+        "likes": 502,
+        "comments": 0,
+        "note_id": "69c77a4d000000001f002d5d",
+        "url": "https://www.xiaohongshu.com/explore/69c77a4d000000001f002d5d",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "油价下调 加满一箱油少花约26元",
+        "description": "",
+        "sentence_id": "2743675",
+        "hot": 11593838,
+        "event_time": 1794528966,
+        "url": "https://www.douyin.com/hot/2743675",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "手工敲虾到底有多好吃",
+        "description": "",
+        "sentence_id": "2743716",
+        "hot": 11054709,
+        "event_time": 1794532759,
+        "url": "https://www.douyin.com/hot/2743716",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "双向奔赴的投资",
+        "description": "",
+        "sentence_id": "2744399",
+        "hot": 11018529,
+        "event_time": 1794553512,
+        "url": "https://www.douyin.com/hot/2744399",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "湖北省委原书记王忠林被查",
+        "description": "",
+        "sentence_id": "2744823",
+        "hot": 10959078,
+        "event_time": 1794564070,
+        "url": "https://www.douyin.com/hot/2744823",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "情呀爱呀手势舞",
+        "description": "",
+        "sentence_id": "2743285",
+        "hot": 10368372,
+        "event_time": 1794485391,
+        "url": "https://www.douyin.com/hot/2743285",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "课本里的逍遥游有画面了",
+        "description": "",
+        "sentence_id": "2743514",
+        "hot": 9659092,
+        "event_time": 1794493379,
+        "url": "https://www.douyin.com/hot/2743514",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "2027研究生报考人数347万",
+        "description": "",
+        "sentence_id": "2743971",
+        "hot": 8629642,
+        "event_time": 1794541307,
+        "url": "https://www.douyin.com/hot/2743971",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "银杏的故事不止一树金黄",
+        "description": "",
+        "sentence_id": "2744841",
+        "hot": 8601656,
+        "event_time": 1794564313,
+        "url": "https://www.douyin.com/hot/2744841",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "76人战胜猛龙",
+        "description": "",
+        "sentence_id": "2744322",
+        "hot": 8600719,
+        "event_time": 1794552163,
+        "url": "https://www.douyin.com/hot/2744322",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "我军无人发烟车亮相演练场",
+        "description": "",
+        "sentence_id": "2743832",
+        "hot": 8321437,
+        "event_time": 1794537245,
+        "url": "https://www.douyin.com/hot/2743832",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "亚太是我们的共同家园",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3x7tr2u9bffq7dk",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/10/BMjAyNjExMTMxMDAxNTZfMTA3MTg4NTYwN18yMTU1MjAyMTM3MDFfMF8z_Ba119ded51a380b6c0e49d873f9889aab.jpg?tag=1-1794570037-unknown-0-sc7koztsct-63d8d8ced77d38a6&type=hot&clientCacheKey=3x7tr2u9bffq7dk.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x7tr2u9bffq7dk",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "湖北省委原书记王忠林被查",
+        "description": "",
+        "author": "",
+        "hot": 11603000,
+        "photo_id": "3xbbbu2xqqgmcm6",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/18/BMjAyNjExMTMxODM1MTlfOTE3NzkyMjA2XzIxNTU3NDIwNTIxNV8wXzM=_Bbd9d89b778f06a8a6adb53b0fd858299.jpg?tag=1-1794570037-unknown-0-lruulx3chs-72d06d67a1a96601&type=hot&clientCacheKey=3xbbbu2xqqgmcm6.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xbbbu2xqqgmcm6",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "我国严禁任何形式代孕",
+        "description": "",
+        "author": "",
+        "hot": 11598000,
+        "photo_id": "3xtdik3x844weh2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/16/BMjAyNjExMTMxNjM5NDBfOTE3NzkyMjA2XzIxNTU1OTY0Njc5MV8wXzM=_B1410fce3af6fb2c6bf0f2dfc1b6e9e53.jpg?tag=1-1794570037-unknown-0-tmtv6gi9ew-bd0e9bef8dd6e126&type=hot&clientCacheKey=3xtdik3x844weh2.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xtdik3x844weh2",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "双向奔赴的投资",
+        "description": "",
+        "author": "",
+        "hot": 11596000,
+        "photo_id": "3xr95au6xh5kn76",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/08/BMjAyNjExMTMwODM4MDlfMTQ3MjMxMzI2NF8yMTU1MTQxMTkwNTdfMF8z_B424ba7cb8ff5919b16b26db5ddaba5b2.jpg?tag=1-1794570037-unknown-0-xecdmecizs-9103ec7d8971927c&type=hot&clientCacheKey=3xr95au6xh5kn76.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xr95au6xh5kn76",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "2027研究生报考人数347万",
+        "description": "",
+        "author": "",
+        "hot": 11594000,
+        "photo_id": "3x55eyt63wgx6eu",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/14/BMjAyNjExMTMxNDAyMTlfOTc0ODg5OTY4XzIxNTU0MzQxOTgxNl8wXzM=_Bed3fac71a4880670453998ce504df629.jpg?tag=1-1794570037-unknown-0-mbxpxqjxfd-6086af646142ef99&type=hot&clientCacheKey=3x55eyt63wgx6eu.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x55eyt63wgx6eu",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "男子勒死妻子后自杀",
+        "description": "",
+        "author": "",
+        "hot": 11593000,
+        "photo_id": "3xztsvsy74j3uc2",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/18/BMjAyNjExMTMxODExMzJfMjE3NzA4ODc5NV8yMTU1NzA5MTA1MTdfMF8z_B94dd570f900b55a7aa51b78bd866b33e.jpg?tag=1-1794570037-unknown-0-x2wa3etl7s-59ed2e928c085407&type=hot&clientCacheKey=3xztsvsy74j3uc2.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xztsvsy74j3uc2",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "银杏的故事不止一树金黄",
+        "description": "",
+        "author": "",
+        "hot": 11388000,
+        "photo_id": "3xh3u7rz5fcrcmw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/14/BMjAyNjExMTMxNDMwMzNfMTc0MzEwMDgzNl8yMTU1NDYwMzQ2ODhfMF8z_Bdd9dd8c36888aad2b3c451e269f4b740.jpg?tag=1-1794570037-unknown-0-yolonz0wfd-de136902d93d8cc8&clientCacheKey=3xh3u7rz5fcrcmw.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xh3u7rz5fcrcmw",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "日本排核污染水超19万吨",
+        "description": "",
+        "author": "",
+        "hot": 10976000,
+        "photo_id": "3xptm42k2k6d2wc",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/12/11/BMjAyNjExMTIxMTMwNDdfMzg5OTgzNjU5OF8yMTU0MTk1NjI0NTBfMV8z_B89b45241068ffe1db8a31c3ae1f61020.jpg?tag=1-1794570037-unknown-0-bohu9nmkmx-3c0f9ef1f9e48d43&clientCacheKey=3xptm42k2k6d2wc.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xptm42k2k6d2wc",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "膀胱癌很容易复发",
+        "description": "",
+        "author": "",
+        "hot": 10865000,
+        "photo_id": "3xj8jdta9fvidkg",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/12/BMjAyNjExMTMxMjIyMjlfMTA5Mzg4OTgwMl8yMTU1MzM4MjI2ODlfMl8z_Bd1d131b64989e1a654a7e147c90bed9f.jpg?tag=1-1794570037-unknown-0-g28lxggbir-3414fe6613c0180f&clientCacheKey=3xj8jdta9fvidkg.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xj8jdta9fvidkg",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "海南儋州一河流变牛奶河",
+        "description": "",
+        "author": "",
+        "hot": 10754000,
+        "photo_id": "3xikukjejj9dj54",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/13/17/BMjAyNjExMTMxNzUwNTdfMjE3NzA4ODc5NV8yMTU1NjgyMTkxMjlfMF8z_B8f8ba5b4d4d68fee206f8015ffad950b.jpg?tag=1-1794570037-unknown-0-ecrlykl1yj-7f92d834335c3794&type=hot&clientCacheKey=3xikukjejj9dj54.jpg&di=84c457e7&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xikukjejj9dj54",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
