@@ -1,0 +1,539 @@
+{
+  "date": "2026-11-20",
+  "fetched_at": "2026-11-20T12:18:26.663499+00:00",
+  "platforms": {
+    "x": [
+      {
+        "rank": 1,
+        "title": "#ハマダ歌謡祭",
+        "description": "",
+        "query": "%23%E3%83%8F%E3%83%9E%E3%83%80%E6%AD%8C%E8%AC%A1%E7%A5%AD",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%23%E3%83%8F%E3%83%9E%E3%83%80%E6%AD%8C%E8%AC%A1%E7%A5%AD",
+        "platform": "x"
+      },
+      {
+        "rank": 2,
+        "title": "#PayPayスクラッチくじ",
+        "description": "",
+        "query": "%23PayPay%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%81%8F%E3%81%98",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%23PayPay%E3%82%B9%E3%82%AF%E3%83%A9%E3%83%83%E3%83%81%E3%81%8F%E3%81%98",
+        "platform": "x"
+      },
+      {
+        "rank": 3,
+        "title": "ロビン配布",
+        "description": "",
+        "query": "%E3%83%AD%E3%83%93%E3%83%B3%E9%85%8D%E5%B8%83",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%E3%83%AD%E3%83%93%E3%83%B3%E9%85%8D%E5%B8%83",
+        "platform": "x"
+      },
+      {
+        "rank": 4,
+        "title": "#hololiveNext",
+        "description": "",
+        "query": "%23hololiveNext",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%23hololiveNext",
+        "platform": "x"
+      },
+      {
+        "rank": 5,
+        "title": "#藤井風ピアノリサイタル",
+        "description": "",
+        "query": "%23%E8%97%A4%E4%BA%95%E9%A2%A8%E3%83%94%E3%82%A2%E3%83%8E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BF%E3%83%AB",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%23%E8%97%A4%E4%BA%95%E9%A2%A8%E3%83%94%E3%82%A2%E3%83%8E%E3%83%AA%E3%82%B5%E3%82%A4%E3%82%BF%E3%83%AB",
+        "platform": "x"
+      },
+      {
+        "rank": 6,
+        "title": "#ENHYPEN",
+        "description": "",
+        "query": "%23ENHYPEN",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%23ENHYPEN",
+        "platform": "x"
+      },
+      {
+        "rank": 7,
+        "title": "OUR CHOICE IS BTS AT MAMA",
+        "description": "",
+        "query": "OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=OUR%20CHOICE%20IS%20BTS%20AT%20MAMA",
+        "platform": "x"
+      },
+      {
+        "rank": 8,
+        "title": "TFO x 21ST EVEANDBOY",
+        "description": "",
+        "query": "TFO%20x%2021ST%20EVEANDBOY",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=TFO%20x%2021ST%20EVEANDBOY",
+        "platform": "x"
+      },
+      {
+        "rank": 9,
+        "title": "ゼンゼロ",
+        "description": "",
+        "query": "%E3%82%BC%E3%83%B3%E3%82%BC%E3%83%AD",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%E3%82%BC%E3%83%B3%E3%82%BC%E3%83%AD",
+        "platform": "x"
+      },
+      {
+        "rank": 10,
+        "title": "ちーたま",
+        "description": "",
+        "query": "%E3%81%A1%E3%83%BC%E3%81%9F%E3%81%BE",
+        "timestamp": "2026-11-20T11:52:24.973000+00:00",
+        "url": "https://twitter.com/search?q=%E3%81%A1%E3%83%BC%E3%81%9F%E3%81%BE",
+        "platform": "x"
+      }
+    ],
+    "youtube": [
+      {
+        "rank": 1,
+        "title": "YouTube热门视频 1",
+        "description": "这是第 1 个热门视频的描述",
+        "author": "频道 1",
+        "views": "1000000",
+        "likes": "50000",
+        "url": "https://www.youtube.com/watch?v=video1",
+        "thumbnail": "https://i.ytimg.com/vi/video1/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 2,
+        "title": "YouTube热门视频 2",
+        "description": "这是第 2 个热门视频的描述",
+        "author": "频道 2",
+        "views": "900000",
+        "likes": "45000",
+        "url": "https://www.youtube.com/watch?v=video2",
+        "thumbnail": "https://i.ytimg.com/vi/video2/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 3,
+        "title": "YouTube热门视频 3",
+        "description": "这是第 3 个热门视频的描述",
+        "author": "频道 3",
+        "views": "800000",
+        "likes": "40000",
+        "url": "https://www.youtube.com/watch?v=video3",
+        "thumbnail": "https://i.ytimg.com/vi/video3/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 4,
+        "title": "YouTube热门视频 4",
+        "description": "这是第 4 个热门视频的描述",
+        "author": "频道 4",
+        "views": "700000",
+        "likes": "35000",
+        "url": "https://www.youtube.com/watch?v=video4",
+        "thumbnail": "https://i.ytimg.com/vi/video4/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 5,
+        "title": "YouTube热门视频 5",
+        "description": "这是第 5 个热门视频的描述",
+        "author": "频道 5",
+        "views": "600000",
+        "likes": "30000",
+        "url": "https://www.youtube.com/watch?v=video5",
+        "thumbnail": "https://i.ytimg.com/vi/video5/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 6,
+        "title": "YouTube热门视频 6",
+        "description": "这是第 6 个热门视频的描述",
+        "author": "频道 6",
+        "views": "500000",
+        "likes": "25000",
+        "url": "https://www.youtube.com/watch?v=video6",
+        "thumbnail": "https://i.ytimg.com/vi/video6/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 7,
+        "title": "YouTube热门视频 7",
+        "description": "这是第 7 个热门视频的描述",
+        "author": "频道 7",
+        "views": "400000",
+        "likes": "20000",
+        "url": "https://www.youtube.com/watch?v=video7",
+        "thumbnail": "https://i.ytimg.com/vi/video7/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 8,
+        "title": "YouTube热门视频 8",
+        "description": "这是第 8 个热门视频的描述",
+        "author": "频道 8",
+        "views": "300000",
+        "likes": "15000",
+        "url": "https://www.youtube.com/watch?v=video8",
+        "thumbnail": "https://i.ytimg.com/vi/video8/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 9,
+        "title": "YouTube热门视频 9",
+        "description": "这是第 9 个热门视频的描述",
+        "author": "频道 9",
+        "views": "200000",
+        "likes": "10000",
+        "url": "https://www.youtube.com/watch?v=video9",
+        "thumbnail": "https://i.ytimg.com/vi/video9/hqdefault.jpg",
+        "platform": "youtube"
+      },
+      {
+        "rank": 10,
+        "title": "YouTube热门视频 10",
+        "description": "这是第 10 个热门视频的描述",
+        "author": "频道 10",
+        "views": "100000",
+        "likes": "5000",
+        "url": "https://www.youtube.com/watch?v=video10",
+        "thumbnail": "https://i.ytimg.com/vi/video10/hqdefault.jpg",
+        "platform": "youtube"
+      }
+    ],
+    "xiaohongshu": [
+      {
+        "title": "这就是我如何完全利用旧窗帘制作安妮-波林长袍的过程。",
+        "description": "",
+        "author": "Asta Darling",
+        "likes": 4764,
+        "comments": 0,
+        "note_id": "6848e114000000000303b864",
+        "url": "https://www.xiaohongshu.com/explore/6848e114000000000303b864",
+        "platform": "xiaohongshu",
+        "rank": 1
+      },
+      {
+        "title": "🍀*. ̊古早四叶草夏日梦境˚‧₊♫ ྀི",
+        "description": "",
+        "author": "dcewa nail",
+        "likes": 2764,
+        "comments": 0,
+        "note_id": "6a17da5f000000003502e949",
+        "url": "https://www.xiaohongshu.com/explore/6a17da5f000000003502e949",
+        "platform": "xiaohongshu",
+        "rank": 2
+      },
+      {
+        "title": "ILLIT｜全员回归概念照 六套日系感穿搭同款～",
+        "description": "",
+        "author": "半只橙",
+        "likes": 1692,
+        "comments": 0,
+        "note_id": "6a4e29cc000000000803dd98",
+        "url": "https://www.xiaohongshu.com/explore/6a4e29cc000000000803dd98",
+        "platform": "xiaohongshu",
+        "rank": 3
+      },
+      {
+        "title": "今识-脸型与发型搭配指南",
+        "description": "",
+        "author": "弘宇",
+        "likes": 1295,
+        "comments": 0,
+        "note_id": "6a7d75b3000000002202f5b9",
+        "url": "https://www.xiaohongshu.com/explore/6a7d75b3000000002202f5b9",
+        "platform": "xiaohongshu",
+        "rank": 4
+      },
+      {
+        "title": "曼谷no.3米其林……没想到是开了50年的老店",
+        "description": "",
+        "author": "橘子粥",
+        "likes": 1230,
+        "comments": 0,
+        "note_id": "69611cd2000000002202fd8e",
+        "url": "https://www.xiaohongshu.com/explore/69611cd2000000002202fd8e",
+        "platform": "xiaohongshu",
+        "rank": 5
+      },
+      {
+        "title": "对镜自拍✨最近化妆品购物🛍️分享～日常碎片",
+        "description": "",
+        "author": "MIU",
+        "likes": 1217,
+        "comments": 0,
+        "note_id": "699b5a07000000000a03d22b",
+        "url": "https://www.xiaohongshu.com/explore/699b5a07000000000a03d22b",
+        "platform": "xiaohongshu",
+        "rank": 6
+      },
+      {
+        "title": "长中庭doll感妆容៸៸᳐⦁⩊<៸៸ 🐾",
+        "description": "",
+        "author": "开朗小葵",
+        "likes": 1137,
+        "comments": 0,
+        "note_id": "691c3728000000001e0059ab",
+        "url": "https://www.xiaohongshu.com/explore/691c3728000000001e0059ab",
+        "platform": "xiaohongshu",
+        "rank": 7
+      },
+      {
+        "title": "只有两个吧唧＋一张小卡怎么拍探店",
+        "description": "",
+        "author": "有你好谷子吃",
+        "likes": 1083,
+        "comments": 0,
+        "note_id": "6a354b2c0000000006033850",
+        "url": "https://www.xiaohongshu.com/explore/6a354b2c0000000006033850",
+        "platform": "xiaohongshu",
+        "rank": 8
+      },
+      {
+        "title": "蹲了很久的串珠项链教程它来啦，轻纱织梦",
+        "description": "",
+        "author": "潇湘阁首饰定制（出材料包）",
+        "likes": 1037,
+        "comments": 0,
+        "note_id": "6a2077710000000036033d79",
+        "url": "https://www.xiaohongshu.com/explore/6a2077710000000036033d79",
+        "platform": "xiaohongshu",
+        "rank": 9
+      },
+      {
+        "title": "当我的审美遇见厨房改造",
+        "description": "",
+        "author": "潇洒大苹果",
+        "likes": 814,
+        "comments": 0,
+        "note_id": "69f09e6e000000001a02cc05",
+        "url": "https://www.xiaohongshu.com/explore/69f09e6e000000001a02cc05",
+        "platform": "xiaohongshu",
+        "rank": 10
+      }
+    ],
+    "douyin": [
+      {
+        "rank": 1,
+        "title": "特朗普结束亚洲行返回白宫",
+        "description": "",
+        "sentence_id": "2755493",
+        "hot": 10990545,
+        "event_time": 1795142070,
+        "url": "https://www.douyin.com/hot/2755493",
+        "platform": "douyin"
+      },
+      {
+        "rank": 2,
+        "title": "U17男足首战对阵西班牙",
+        "description": "",
+        "sentence_id": "2755170",
+        "hot": 10915527,
+        "event_time": 1795098488,
+        "url": "https://www.douyin.com/hot/2755170",
+        "platform": "douyin"
+      },
+      {
+        "rank": 3,
+        "title": "亚太前沿领域机遇看中国",
+        "description": "",
+        "sentence_id": "2755049",
+        "hot": 10896228,
+        "event_time": 1795092492,
+        "url": "https://www.douyin.com/hot/2755049",
+        "platform": "douyin"
+      },
+      {
+        "rank": 4,
+        "title": "APEC外宾游深圳邂逅地道美食",
+        "description": "",
+        "sentence_id": "2754647",
+        "hot": 10880472,
+        "event_time": 1795079439,
+        "url": "https://www.douyin.com/hot/2754647",
+        "platform": "douyin"
+      },
+      {
+        "rank": 5,
+        "title": "泰国总理带夫人在深圳吃夜宵",
+        "description": "",
+        "sentence_id": "2755542",
+        "hot": 10305932,
+        "event_time": 1795143213,
+        "url": "https://www.douyin.com/hot/2755542",
+        "platform": "douyin"
+      },
+      {
+        "rank": 6,
+        "title": "粤菜亮相APEC欢迎晚宴",
+        "description": "",
+        "sentence_id": "2756285",
+        "hot": 10275739,
+        "event_time": 1795162816,
+        "url": "https://www.douyin.com/hot/2756285",
+        "platform": "douyin"
+      },
+      {
+        "rank": 7,
+        "title": "普京抵达塔吉克斯坦进行访问",
+        "description": "",
+        "sentence_id": "2756106",
+        "hot": 9189387,
+        "event_time": 1795158889,
+        "url": "https://www.douyin.com/hot/2756106",
+        "platform": "douyin"
+      },
+      {
+        "rank": 8,
+        "title": "灯火里的深圳 照见开放与活力",
+        "description": "",
+        "sentence_id": "2756722",
+        "hot": 9176544,
+        "event_time": 1795175056,
+        "url": "https://www.douyin.com/hot/2756722",
+        "platform": "douyin"
+      },
+      {
+        "rank": 9,
+        "title": "这首告别的诗为什么偏偏写草",
+        "description": "",
+        "sentence_id": "2756705",
+        "hot": 9111407,
+        "event_time": 1795174331,
+        "url": "https://www.douyin.com/hot/2756705",
+        "platform": "douyin"
+      },
+      {
+        "rank": 10,
+        "title": "谢谢你深圳",
+        "description": "",
+        "sentence_id": "2756057",
+        "hot": 9014376,
+        "event_time": 1795157627,
+        "url": "https://www.douyin.com/hot/2756057",
+        "platform": "douyin"
+      }
+    ],
+    "kuaishou": [
+      {
+        "title": "习近平会见印尼总统普拉博沃",
+        "description": "",
+        "author": "",
+        "hot": 0,
+        "photo_id": "3xv6ih8bkkknj82",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/13/BMjAyNjExMjAxMzI0NDNfMTA3MTg4NTYwN18yMTYzNjkxMTM2MDRfMF8z_B91d4a6811b9d839890ca5fd8cdf9b83e.jpg?tag=1-1795177105-unknown-0-pqig5ttviw-3e5e792de6696649&type=hot&clientCacheKey=3xv6ih8bkkknj82.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xv6ih8bkkknj82",
+        "platform": "kuaishou",
+        "rank": 1
+      },
+      {
+        "title": "特朗普返回白宫发布重大预告",
+        "description": "",
+        "author": "",
+        "hot": 12293000,
+        "photo_id": "3xv7pj75pcj2t4k",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/10/BMjAyNjExMjAxMDIyMzRfNjg3MDkwOTY0XzIxNjM1MDc2MjI5MV8wXzM=_Bd47c8c9095bf7a2d156567b20dc3150a.jpg?tag=1-1795177105-unknown-0-tsih5c31rr-5c9ecf016a5b0c31&type=hot&clientCacheKey=3xv7pj75pcj2t4k.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xv7pj75pcj2t4k",
+        "platform": "kuaishou",
+        "rank": 2
+      },
+      {
+        "title": "中方回应高市早苗表态台湾问题",
+        "description": "",
+        "author": "",
+        "hot": 12288000,
+        "photo_id": "3xvu3gjtmjawjei",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/15/BMjAyNjExMjAxNTMwMzFfMjM2OTY5NzI3Nl8yMTYzODIxMzIxNTlfMF8z_Bdf421ad71715fb5589558a36b0f7671a.jpg?tag=1-1795177105-unknown-0-zui96zdox9-f810d69b41202ee4&type=hot&clientCacheKey=3xvu3gjtmjawjei.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xvu3gjtmjawjei",
+        "platform": "kuaishou",
+        "rank": 3
+      },
+      {
+        "title": "灯火里的深圳 照见开放与活力",
+        "description": "",
+        "author": "",
+        "hot": 12285000,
+        "photo_id": "3xckkg6zzdb9je4",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/16/BMjAyNjExMjAxNjEwNTRfODI3NzM2NjEwXzIxNjM4NjU3NTY2OF8wXzM=_B48c588865b66c64795c0949c940f7963.jpg?tag=1-1795177105-unknown-0-2hdcoob4bc-c5268f0f229bf064&clientCacheKey=3xckkg6zzdb9je4.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xckkg6zzdb9je4",
+        "platform": "kuaishou",
+        "rank": 4
+      },
+      {
+        "title": "直击2026彝历新年文艺晚会",
+        "description": "",
+        "author": "",
+        "hot": 12283000,
+        "photo_id": "3xp2eu9w5k97xiw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/11/BMjAyNjExMjAxMTUzMDVfMTAyMzg0NjE3Nl8yMTYzNTk5NjI5OTRfMF8z_B8ed770a30de716cc2bf5a42d0a1f7c74.jpg?tag=1-1795177105-unknown-0-5wfm8p4n0d-cda29fbf3df53163&type=hot&clientCacheKey=3xp2eu9w5k97xiw.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xp2eu9w5k97xiw",
+        "platform": "kuaishou",
+        "rank": 5
+      },
+      {
+        "title": "中国U17vs西班牙U17",
+        "description": "",
+        "author": "",
+        "hot": 11365000,
+        "photo_id": "3x48rzq63fhf8fy",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/02/BMjAyNjExMjAwMjExMjNfMTQxMjQ0XzIxNjMzMDc2Mjc0N18yXzM=_Bd711879c60e4aa83525eae6cc7c0e896.jpg?tag=1-1795177105-unknown-0-utyixb2c86-35f2abd8c386064f&clientCacheKey=3x48rzq63fhf8fy.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3x48rzq63fhf8fy",
+        "platform": "kuaishou",
+        "rank": 6
+      },
+      {
+        "title": "中方谴责美国粗暴干涉香港事务",
+        "description": "",
+        "author": "",
+        "hot": 10934000,
+        "photo_id": "3xsg938yp3vybry",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/18/BMjAyNjExMjAxODI3NTVfMTQyODkxMzMyMl8yMTY0MDMwNDU3MjFfMF8z_Bb0edfcffa94edc0f6671e184739aa8c2.jpg?tag=1-1795177105-unknown-0-bl7t3gzn2d-45cb3574bc89f57e&type=hot&clientCacheKey=3xsg938yp3vybry.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xsg938yp3vybry",
+        "platform": "kuaishou",
+        "rank": 7
+      },
+      {
+        "title": "特朗普称在华度过愉快时光",
+        "description": "",
+        "author": "",
+        "hot": 10520000,
+        "photo_id": "3xqd2pygquzzcsw",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/19/BMjAyNjExMjAxOTI2MTNfMjM2OTY5NzI3Nl8yMTY0MTA5MTcyMTJfMF8z_B2a1131efe18792d0aa44439943f50250.jpg?tag=1-1795177105-unknown-0-mu6il0m68x-2ad6d88b132a650f&clientCacheKey=3xqd2pygquzzcsw.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xqd2pygquzzcsw",
+        "platform": "kuaishou",
+        "rank": 8
+      },
+      {
+        "title": "这首告别的诗为什么偏偏写草",
+        "description": "",
+        "author": "",
+        "hot": 10209000,
+        "photo_id": "3xh37yx3ikifu8w",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/15/BMjAyNjExMjAxNTE5MDNfMTc0MzEwMDgzNl8yMTYzODA5NTczMDZfMF8z_Bb7c1e2ac26b2508f8d75ba63ee4474f7.jpg?tag=1-1795177105-unknown-0-ailxuwco8l-338c8487057fe93c&clientCacheKey=3xh37yx3ikifu8w.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xh37yx3ikifu8w",
+        "platform": "kuaishou",
+        "rank": 9
+      },
+      {
+        "title": "我国领航级智能工厂增至49家",
+        "description": "",
+        "author": "",
+        "hot": 10053000,
+        "photo_id": "3xcv3cfre8m88rq",
+        "cover": "http://ws2.a.kwimgs.com/upic/2026/11/20/15/BMjAyNjExMjAxNTA5MDJfMjEzMzA5NDc1OV8yMTYzNzk4OTYyNDBfMF8z_Bdadf82e6917fb7dd646cec563972be7f.jpg?tag=1-1795177105-unknown-0-eb60pnvroc-ea18d76f4f8035de&clientCacheKey=3xcv3cfre8m88rq.jpg&di=49af5e6&bp=10004&kwai-not-alloc=35&ss=vps",
+        "url": "https://www.kuaishou.com/short-video/3xcv3cfre8m88rq",
+        "platform": "kuaishou",
+        "rank": 10
+      }
+    ]
+  },
+  "_source_flags": {
+    "youtube": "mock"
+  }
+}
